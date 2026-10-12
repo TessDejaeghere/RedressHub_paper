@@ -1,7 +1,7 @@
 # Human Out of the Loop — analysis notebooks
 
 Code and data to reproduce the analyses in *Human Out of the Loop: How Contested Colonial Redress Events
-Slip Past Generative LLMs' Confidence Thresholds* (Dejaeghere, Evrard, Pallí-Asperó, Singh & Lefever).
+Slip Past Generative LLMs' Confidence Thresholds*.
 
 | Notebook | Reproduces |
 |---|---|
