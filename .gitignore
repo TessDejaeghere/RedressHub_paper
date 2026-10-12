@@ -1,0 +1,21 @@
+# secrets: never commit API keys
+*key*.txt
+*.env
+.env*
+
+# copyrighted article texts: never commit (see README)
+ls_real/texts_full.json
+**/texts_full.json
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

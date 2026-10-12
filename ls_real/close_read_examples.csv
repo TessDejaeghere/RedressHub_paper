@@ -1,0 +1,28 @@
+example,text_key,annotator,start,end
+regrets,iaa:285647,Cira,2173,2180
+Exterminez,iaa:285665,Cira,2316,2344
+Warrior Poets,iaa:285667,Cira,556,590
+regrets,iaa:285647,Elke,2173,2180
+fait tomber,iaa:285662,Elke,177,188
+Exterminez,iaa:285665,Elke,2316,2344
+Warrior Poets,iaa:285667,Elke,556,590
+Sauvages,cira_solo:335638,Cira,274,282
+Sauvages,cira_solo:335638,Elke,274,309
+Sauvages,cira_solo:335638,Elke,1068,1103
+parlementscommissie,iaa_nl:285643,Elke,351,381
+parlementscommissie,iaa_nl:285643,Elke,718,748
+parlementscommissie,iaa_nl:285643,Elke,5157,5187
+parlementscommissie,iaa_nl:285643,Elke,5784,5814
+parlementscommissie,iaa_nl:285643,Elke,6115,6145
+parlementscommissie,iaa_nl:285643,Elke,8027,8057
+kartonnen,iaa_nl:285645,Elke,8756,8776
+muurschildering,iaa_nl:285645,Elke,11499,11514
+parlementscommissie,iaa_nl:285643,A3,351,381
+parlementscommissie,iaa_nl:285643,A3,718,749
+kartonnen,iaa_nl:285645,A3,8756,8776
+muurschildering,iaa_nl:285645,A3,11499,11515
+muurschildering,elke_solo_nl:335223,Elke,11113,11128
+Congoville,elke_solo_nl:335228,Elke,10307,10328
+kartonnen,elke_solo_nl:335223,A3,8348,8368
+muurschildering,elke_solo_nl:335223,A3,11113,11129
+Congoville,elke_solo_nl:335228,A3,10307,10328

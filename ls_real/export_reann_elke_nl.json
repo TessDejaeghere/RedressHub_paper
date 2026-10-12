@@ -1,0 +1,6667 @@
+[
+ {
+  "id": 371019,
+  "annotations": [
+   {
+    "id": 145245,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "4jGMzFmYyl",
+      "type": "labels",
+      "value": {
+       "end": 6675,
+       "start": 6661,
+       "labels": [
+        "Apologies"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "4jGMzFmYyl",
+      "type": "choices",
+      "value": {
+       "end": 6675,
+       "start": 6661,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "keOB9DAhxx",
+      "type": "labels",
+      "value": {
+       "end": 6691,
+       "start": 6679,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "keOB9DAhxx",
+      "type": "choices",
+      "value": {
+       "end": 6691,
+       "start": 6679,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "zbcQ-k_BL1",
+      "type": "labels",
+      "value": {
+       "end": 6789,
+       "start": 6777,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "zbcQ-k_BL1",
+      "type": "choices",
+      "value": {
+       "end": 6789,
+       "start": 6777,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "2BI0kyEEF6",
+      "type": "labels",
+      "value": {
+       "end": 381,
+       "start": 351,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "2BI0kyEEF6",
+      "type": "choices",
+      "value": {
+       "end": 381,
+       "start": 351,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "yH4k86_FUG",
+      "type": "labels",
+      "value": {
+       "end": 748,
+       "start": 718,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "yH4k86_FUG",
+      "type": "choices",
+      "value": {
+       "end": 748,
+       "start": 718,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "aIS7_SvVB7",
+      "type": "labels",
+      "value": {
+       "end": 5187,
+       "start": 5157,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "aIS7_SvVB7",
+      "type": "choices",
+      "value": {
+       "end": 5187,
+       "start": 5157,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "3r5__l8xbV",
+      "type": "labels",
+      "value": {
+       "end": 5814,
+       "start": 5784,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "3r5__l8xbV",
+      "type": "choices",
+      "value": {
+       "end": 5814,
+       "start": 5784,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "1-J3X5QSZE",
+      "type": "labels",
+      "value": {
+       "end": 6145,
+       "start": 6115,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "1-J3X5QSZE",
+      "type": "choices",
+      "value": {
+       "end": 6145,
+       "start": 6115,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "RjX0rByUvF",
+      "type": "labels",
+      "value": {
+       "end": 8057,
+       "start": 8027,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "RjX0rByUvF",
+      "type": "choices",
+      "value": {
+       "end": 8057,
+       "start": 8027,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "4jGMzFmYyl",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "keOB9DAhxx",
+      "direction": "left"
+     },
+     {
+      "type": "relation",
+      "to_id": "4jGMzFmYyl",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "zbcQ-k_BL1",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-03T16:31:41.408271Z",
+    "updated_at": "2026-09-03T16:31:41.408298Z",
+    "draft_created_at": "2026-09-03T16:25:31.351388Z",
+    "lead_time": 594.429,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "d048ad7a-52eb-4b72-9711-506abf07355a",
+    "import_id": null,
+    "last_action": null,
+    "task": 371019,
+    "project": 722,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7dab36d6-reannotate_iaa_nl_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285643
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:47.637691Z",
+  "updated_at": "2026-09-03T16:31:41.490891Z",
+  "inner_id": 1,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 722,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 371020,
+  "annotations": [
+   {
+    "id": 147286,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "2dtZN-bn6-",
+      "type": "labels",
+      "value": {
+       "end": 899,
+       "start": 889,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "2dtZN-bn6-",
+      "type": "choices",
+      "value": {
+       "end": 899,
+       "start": 889,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "2dtZN-bn6-",
+      "type": "choices",
+      "value": {
+       "end": 899,
+       "start": 889,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "qYYwdeg9s-",
+      "type": "labels",
+      "value": {
+       "end": 946,
+       "start": 937,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "qYYwdeg9s-",
+      "type": "choices",
+      "value": {
+       "end": 946,
+       "start": 937,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "MIhAI0CXH0",
+      "type": "labels",
+      "value": {
+       "end": 808,
+       "start": 802,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "MIhAI0CXH0",
+      "type": "choices",
+      "value": {
+       "end": 808,
+       "start": 802,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "t7BcfuFbLA",
+      "type": "labels",
+      "value": {
+       "end": 911,
+       "start": 904,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "t7BcfuFbLA",
+      "type": "choices",
+      "value": {
+       "end": 911,
+       "start": 904,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "AxzJvlG7Ui",
+      "type": "labels",
+      "value": {
+       "end": 570,
+       "start": 561,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "AxzJvlG7Ui",
+      "type": "choices",
+      "value": {
+       "end": 570,
+       "start": 561,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "2r3dTJ6mf9",
+      "type": "labels",
+      "value": {
+       "end": 888,
+       "start": 882,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "2r3dTJ6mf9",
+      "type": "choices",
+      "value": {
+       "end": 888,
+       "start": 882,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "S9KNIN7jDu",
+      "type": "labels",
+      "value": {
+       "end": 6714,
+       "start": 6694,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "S9KNIN7jDu",
+      "type": "choices",
+      "value": {
+       "end": 6714,
+       "start": 6694,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "S9KNIN7jDu",
+      "type": "choices",
+      "value": {
+       "end": 6714,
+       "start": 6694,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "S9KNIN7jDu",
+      "type": "choices",
+      "value": {
+       "end": 6714,
+       "start": 6694,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "pIhK5bx8U3",
+      "type": "labels",
+      "value": {
+       "end": 6684,
+       "start": 6680,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "pIhK5bx8U3",
+      "type": "choices",
+      "value": {
+       "end": 6684,
+       "start": 6680,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "eruX3V6UTb",
+      "type": "labels",
+      "value": {
+       "end": 936,
+       "start": 929,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "eruX3V6UTb",
+      "type": "choices",
+      "value": {
+       "end": 936,
+       "start": 929,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jGTaxW1wWy",
+      "type": "labels",
+      "value": {
+       "end": 7008,
+       "start": 6997,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "jGTaxW1wWy",
+      "type": "choices",
+      "value": {
+       "end": 7008,
+       "start": 6997,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "m1eK7qI26K",
+      "type": "labels",
+      "value": {
+       "end": 6922,
+       "start": 6918,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "m1eK7qI26K",
+      "type": "choices",
+      "value": {
+       "end": 6922,
+       "start": 6918,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "gQzddK9gDB",
+      "type": "labels",
+      "value": {
+       "end": 6955,
+       "start": 6936,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "gQzddK9gDB",
+      "type": "choices",
+      "value": {
+       "end": 6955,
+       "start": 6936,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "_KzSFc2nK7",
+      "type": "labels",
+      "value": {
+       "end": 6955,
+       "start": 6945,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "_KzSFc2nK7",
+      "type": "choices",
+      "value": {
+       "end": 6955,
+       "start": 6945,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "i4rz_kVQWV",
+      "type": "labels",
+      "value": {
+       "end": 6725,
+       "start": 6718,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "i4rz_kVQWV",
+      "type": "choices",
+      "value": {
+       "end": 6725,
+       "start": 6718,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "RkikYeL6_P",
+      "type": "labels",
+      "value": {
+       "end": 7892,
+       "start": 7875,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "RkikYeL6_P",
+      "type": "choices",
+      "value": {
+       "end": 7892,
+       "start": 7875,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "wt83pob2Q_",
+      "type": "labels",
+      "value": {
+       "end": 7919,
+       "start": 7909,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "wt83pob2Q_",
+      "type": "choices",
+      "value": {
+       "end": 7919,
+       "start": 7909,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "wt83pob2Q_",
+      "type": "choices",
+      "value": {
+       "end": 7919,
+       "start": 7909,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "wt83pob2Q_",
+      "type": "choices",
+      "value": {
+       "end": 7919,
+       "start": 7909,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "nyI0f_8bDR",
+      "type": "labels",
+      "value": {
+       "end": 7294,
+       "start": 7278,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "nyI0f_8bDR",
+      "type": "choices",
+      "value": {
+       "end": 7294,
+       "start": 7278,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "MIhAI0CXH0",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "2dtZN-bn6-",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "t7BcfuFbLA",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "qYYwdeg9s-",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "pIhK5bx8U3",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "S9KNIN7jDu",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "m1eK7qI26K",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "jGTaxW1wWy",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jGTaxW1wWy",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "gQzddK9gDB",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "wt83pob2Q_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "nyI0f_8bDR",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "RkikYeL6_P",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "wt83pob2Q_",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T16:16:57.421130Z",
+    "updated_at": "2026-09-15T16:16:57.421158Z",
+    "draft_created_at": "2026-09-03T16:32:20.787513Z",
+    "lead_time": 1380.345,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "1ef8e93f-52c2-4ad2-a664-2efd289405b0",
+    "import_id": null,
+    "last_action": null,
+    "task": 371020,
+    "project": 722,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7dab36d6-reannotate_iaa_nl_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285644
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:47.637858Z",
+  "updated_at": "2026-09-15T16:16:57.504924Z",
+  "inner_id": 2,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 722,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 371021,
+  "annotations": [
+   {
+    "id": 147287,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "IDx4SC-ZYM",
+      "type": "labels",
+      "value": {
+       "end": 152,
+       "start": 142,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "IDx4SC-ZYM",
+      "type": "choices",
+      "value": {
+       "end": 152,
+       "start": 142,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "IkVjah5nV2",
+      "type": "labels",
+      "value": {
+       "end": 284,
+       "start": 262,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "IkVjah5nV2",
+      "type": "choices",
+      "value": {
+       "end": 284,
+       "start": 262,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "IkVjah5nV2",
+      "type": "choices",
+      "value": {
+       "end": 284,
+       "start": 262,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "IkVjah5nV2",
+      "type": "choices",
+      "value": {
+       "end": 284,
+       "start": 262,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "UAFIrS5qkK",
+      "type": "labels",
+      "value": {
+       "end": 846,
+       "start": 835,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "UAFIrS5qkK",
+      "type": "choices",
+      "value": {
+       "end": 846,
+       "start": 835,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "UKTZATxmjk",
+      "type": "labels",
+      "value": {
+       "end": 558,
+       "start": 548,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "UKTZATxmjk",
+      "type": "choices",
+      "value": {
+       "end": 558,
+       "start": 548,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "rtyeLGzEjV",
+      "type": "labels",
+      "value": {
+       "end": 1171,
+       "start": 1162,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "rtyeLGzEjV",
+      "type": "choices",
+      "value": {
+       "end": 1171,
+       "start": 1162,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "rtyeLGzEjV",
+      "type": "choices",
+      "value": {
+       "end": 1171,
+       "start": 1162,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "rtyeLGzEjV",
+      "type": "choices",
+      "value": {
+       "end": 1171,
+       "start": 1162,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "tAvtewNgh-",
+      "type": "labels",
+      "value": {
+       "end": 1246,
+       "start": 1226,
+       "labels": [
+        "Decolonisation trajectory"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "tAvtewNgh-",
+      "type": "choices",
+      "value": {
+       "end": 1246,
+       "start": 1226,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "esoIFdOzvv",
+      "type": "labels",
+      "value": {
+       "end": 1284,
+       "start": 1265,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "esoIFdOzvv",
+      "type": "choices",
+      "value": {
+       "end": 1284,
+       "start": 1265,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "CerfmKkTDF",
+      "type": "labels",
+      "value": {
+       "end": 1284,
+       "start": 1274,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "CerfmKkTDF",
+      "type": "choices",
+      "value": {
+       "end": 1284,
+       "start": 1274,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Fr5q3dgIAY",
+      "type": "labels",
+      "value": {
+       "end": 1399,
+       "start": 1387,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Fr5q3dgIAY",
+      "type": "choices",
+      "value": {
+       "end": 1399,
+       "start": 1387,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Z3vJn4yltX",
+      "type": "labels",
+      "value": {
+       "end": 1578,
+       "start": 1567,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Z3vJn4yltX",
+      "type": "choices",
+      "value": {
+       "end": 1578,
+       "start": 1567,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-Ncv3f9kH1",
+      "type": "labels",
+      "value": {
+       "end": 1904,
+       "start": 1889,
+       "labels": [
+        "Decolonisation trajectory"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-Ncv3f9kH1",
+      "type": "choices",
+      "value": {
+       "end": 1904,
+       "start": 1889,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "m6ZEA9uQxR",
+      "type": "labels",
+      "value": {
+       "end": 1920,
+       "start": 1912,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "m6ZEA9uQxR",
+      "type": "choices",
+      "value": {
+       "end": 1920,
+       "start": 1912,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "kWGwjvuSfo",
+      "type": "labels",
+      "value": {
+       "end": 1834,
+       "start": 1822,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "kWGwjvuSfo",
+      "type": "choices",
+      "value": {
+       "end": 1834,
+       "start": 1822,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "e_4cLksaKH",
+      "type": "labels",
+      "value": {
+       "end": 1873,
+       "start": 1865,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "e_4cLksaKH",
+      "type": "choices",
+      "value": {
+       "end": 1873,
+       "start": 1865,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Nf4ownDdfq",
+      "type": "labels",
+      "value": {
+       "end": 2242,
+       "start": 2226,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Nf4ownDdfq",
+      "type": "choices",
+      "value": {
+       "end": 2242,
+       "start": 2226,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "igiXkunal4",
+      "type": "labels",
+      "value": {
+       "end": 2258,
+       "start": 2247,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "igiXkunal4",
+      "type": "choices",
+      "value": {
+       "end": 2258,
+       "start": 2247,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "I6H6FD_M4K",
+      "type": "labels",
+      "value": {
+       "end": 2393,
+       "start": 2383,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "I6H6FD_M4K",
+      "type": "choices",
+      "value": {
+       "end": 2393,
+       "start": 2383,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "aav23r9xLA",
+      "type": "labels",
+      "value": {
+       "end": 3739,
+       "start": 3735,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "aav23r9xLA",
+      "type": "choices",
+      "value": {
+       "end": 3739,
+       "start": 3735,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "99lS1938FM",
+      "type": "labels",
+      "value": {
+       "end": 4140,
+       "start": 4130,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "99lS1938FM",
+      "type": "choices",
+      "value": {
+       "end": 4140,
+       "start": 4130,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "99lS1938FM",
+      "type": "choices",
+      "value": {
+       "end": 4140,
+       "start": 4130,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "99lS1938FM",
+      "type": "choices",
+      "value": {
+       "end": 4140,
+       "start": 4130,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "1rzQYFCu-T",
+      "type": "labels",
+      "value": {
+       "end": 4612,
+       "start": 4602,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "1rzQYFCu-T",
+      "type": "choices",
+      "value": {
+       "end": 4612,
+       "start": 4602,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "1rzQYFCu-T",
+      "type": "choices",
+      "value": {
+       "end": 4612,
+       "start": 4602,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "1rzQYFCu-T",
+      "type": "choices",
+      "value": {
+       "end": 4612,
+       "start": 4602,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "EWadzQRBUw",
+      "type": "labels",
+      "value": {
+       "end": 4520,
+       "start": 4509,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "EWadzQRBUw",
+      "type": "choices",
+      "value": {
+       "end": 4520,
+       "start": 4509,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "s0MJXiNsO5",
+      "type": "labels",
+      "value": {
+       "end": 4601,
+       "start": 4595,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "s0MJXiNsO5",
+      "type": "choices",
+      "value": {
+       "end": 4601,
+       "start": 4595,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jddincsJzy",
+      "type": "labels",
+      "value": {
+       "end": 4964,
+       "start": 4953,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "jddincsJzy",
+      "type": "choices",
+      "value": {
+       "end": 4964,
+       "start": 4953,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jddincsJzy",
+      "type": "choices",
+      "value": {
+       "end": 4964,
+       "start": 4953,
+       "choices": [
+        "Decolonisation trajectory"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "jddincsJzy",
+      "type": "choices",
+      "value": {
+       "end": 4964,
+       "start": 4953,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "k7Vc9lsLAb",
+      "type": "labels",
+      "value": {
+       "end": 4939,
+       "start": 4928,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "k7Vc9lsLAb",
+      "type": "choices",
+      "value": {
+       "end": 4939,
+       "start": 4928,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "FhB0OXB55g",
+      "type": "labels",
+      "value": {
+       "end": 123,
+       "start": 111,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "FhB0OXB55g",
+      "type": "choices",
+      "value": {
+       "end": 123,
+       "start": 111,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "uIOJvk1ro8",
+      "type": "labels",
+      "value": {
+       "end": 5605,
+       "start": 5595,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "uIOJvk1ro8",
+      "type": "choices",
+      "value": {
+       "end": 5605,
+       "start": 5595,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "h7SU1jCBUQ",
+      "type": "labels",
+      "value": {
+       "end": 5668,
+       "start": 5658,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "h7SU1jCBUQ",
+      "type": "choices",
+      "value": {
+       "end": 5668,
+       "start": 5658,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "YTt18NGh2w",
+      "type": "labels",
+      "value": {
+       "end": 5718,
+       "start": 5706,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "YTt18NGh2w",
+      "type": "choices",
+      "value": {
+       "end": 5718,
+       "start": 5706,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "AHBzHbPxEg",
+      "type": "labels",
+      "value": {
+       "end": 5771,
+       "start": 5761,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "AHBzHbPxEg",
+      "type": "choices",
+      "value": {
+       "end": 5771,
+       "start": 5761,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "S1X1ssegj2",
+      "type": "labels",
+      "value": {
+       "end": 5997,
+       "start": 5990,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "S1X1ssegj2",
+      "type": "choices",
+      "value": {
+       "end": 5997,
+       "start": 5990,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "S1X1ssegj2",
+      "type": "choices",
+      "value": {
+       "end": 5997,
+       "start": 5990,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "S1X1ssegj2",
+      "type": "choices",
+      "value": {
+       "end": 5997,
+       "start": 5990,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "VDceZHqZEW",
+      "type": "labels",
+      "value": {
+       "end": 6034,
+       "start": 6023,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "VDceZHqZEW",
+      "type": "choices",
+      "value": {
+       "end": 6034,
+       "start": 6023,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "VDceZHqZEW",
+      "type": "choices",
+      "value": {
+       "end": 6034,
+       "start": 6023,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "VDceZHqZEW",
+      "type": "choices",
+      "value": {
+       "end": 6034,
+       "start": 6023,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "BheRVS_W9H",
+      "type": "labels",
+      "value": {
+       "end": 5894,
+       "start": 5884,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "BheRVS_W9H",
+      "type": "choices",
+      "value": {
+       "end": 5894,
+       "start": 5884,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "y1kzOMyn2W",
+      "type": "labels",
+      "value": {
+       "end": 8776,
+       "start": 8756,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "y1kzOMyn2W",
+      "type": "choices",
+      "value": {
+       "end": 8776,
+       "start": 8756,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "y1kzOMyn2W",
+      "type": "choices",
+      "value": {
+       "end": 8776,
+       "start": 8756,
+       "choices": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "y1kzOMyn2W",
+      "type": "choices",
+      "value": {
+       "end": 8776,
+       "start": 8756,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "n0nupRxMI7",
+      "type": "labels",
+      "value": {
+       "end": 8957,
+       "start": 8943,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "n0nupRxMI7",
+      "type": "choices",
+      "value": {
+       "end": 8957,
+       "start": 8943,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "pydm_ERCVT",
+      "type": "labels",
+      "value": {
+       "end": 8989,
+       "start": 8971,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "pydm_ERCVT",
+      "type": "choices",
+      "value": {
+       "end": 8989,
+       "start": 8971,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "pydm_ERCVT",
+      "type": "choices",
+      "value": {
+       "end": 8989,
+       "start": 8971,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "pydm_ERCVT",
+      "type": "choices",
+      "value": {
+       "end": 8989,
+       "start": 8971,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "tYDnyouGU9",
+      "type": "labels",
+      "value": {
+       "end": 8989,
+       "start": 8980,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "tYDnyouGU9",
+      "type": "choices",
+      "value": {
+       "end": 8989,
+       "start": 8980,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "dRO298SmpF",
+      "type": "labels",
+      "value": {
+       "end": 10535,
+       "start": 10495,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "dRO298SmpF",
+      "type": "choices",
+      "value": {
+       "end": 10535,
+       "start": 10495,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "dRO298SmpF",
+      "type": "choices",
+      "value": {
+       "end": 10535,
+       "start": 10495,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "dRO298SmpF",
+      "type": "choices",
+      "value": {
+       "end": 10535,
+       "start": 10495,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "7l9HhYkI2c",
+      "type": "labels",
+      "value": {
+       "end": 10490,
+       "start": 10485,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "7l9HhYkI2c",
+      "type": "choices",
+      "value": {
+       "end": 10490,
+       "start": 10485,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "7l9HhYkI2c",
+      "type": "choices",
+      "value": {
+       "end": 10490,
+       "start": 10485,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "7l9HhYkI2c",
+      "type": "choices",
+      "value": {
+       "end": 10490,
+       "start": 10485,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "8jgmfOt-2q",
+      "type": "labels",
+      "value": {
+       "end": 10484,
+       "start": 10480,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "8jgmfOt-2q",
+      "type": "choices",
+      "value": {
+       "end": 10484,
+       "start": 10480,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "FGZCaGhVBK",
+      "type": "labels",
+      "value": {
+       "end": 10809,
+       "start": 10797,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "FGZCaGhVBK",
+      "type": "choices",
+      "value": {
+       "end": 10809,
+       "start": 10797,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "6LhlI-3Owb",
+      "type": "labels",
+      "value": {
+       "end": 10817,
+       "start": 10813,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "6LhlI-3Owb",
+      "type": "choices",
+      "value": {
+       "end": 10817,
+       "start": 10813,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "nku1tP3kuH",
+      "type": "labels",
+      "value": {
+       "end": 10830,
+       "start": 10822,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "nku1tP3kuH",
+      "type": "choices",
+      "value": {
+       "end": 10830,
+       "start": 10822,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "lb3Gbow0Fa",
+      "type": "labels",
+      "value": {
+       "end": 10986,
+       "start": 10979,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "lb3Gbow0Fa",
+      "type": "choices",
+      "value": {
+       "end": 10986,
+       "start": 10979,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Cya7Z1tII4",
+      "type": "labels",
+      "value": {
+       "end": 10928,
+       "start": 10919,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Cya7Z1tII4",
+      "type": "choices",
+      "value": {
+       "end": 10928,
+       "start": 10919,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "z3V54T9Emo",
+      "type": "labels",
+      "value": {
+       "end": 10942,
+       "start": 10933,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "z3V54T9Emo",
+      "type": "choices",
+      "value": {
+       "end": 10942,
+       "start": 10933,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "bAJJop34J0",
+      "type": "labels",
+      "value": {
+       "end": 11514,
+       "start": 11499,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "bAJJop34J0",
+      "type": "choices",
+      "value": {
+       "end": 11514,
+       "start": 11499,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "M3T5Vv-YTD",
+      "type": "labels",
+      "value": {
+       "end": 11490,
+       "start": 11470,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "M3T5Vv-YTD",
+      "type": "choices",
+      "value": {
+       "end": 11490,
+       "start": 11470,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "CJAeubkIDd",
+      "type": "labels",
+      "value": {
+       "end": 12384,
+       "start": 12366,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "CJAeubkIDd",
+      "type": "choices",
+      "value": {
+       "end": 12384,
+       "start": 12366,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "CJAeubkIDd",
+      "type": "choices",
+      "value": {
+       "end": 12384,
+       "start": 12366,
+       "choices": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "CJAeubkIDd",
+      "type": "choices",
+      "value": {
+       "end": 12384,
+       "start": 12366,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "NumOf9Xx1w",
+      "type": "labels",
+      "value": {
+       "end": 12287,
+       "start": 12256,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "NumOf9Xx1w",
+      "type": "choices",
+      "value": {
+       "end": 12287,
+       "start": 12256,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "6YxBBHHWDD",
+      "type": "labels",
+      "value": {
+       "end": 12464,
+       "start": 12450,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "6YxBBHHWDD",
+      "type": "choices",
+      "value": {
+       "end": 12464,
+       "start": 12450,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "RE5gPZD2oq",
+      "type": "labels",
+      "value": {
+       "end": 12336,
+       "start": 12304,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "RE5gPZD2oq",
+      "type": "choices",
+      "value": {
+       "end": 12336,
+       "start": 12304,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "RE5gPZD2oq",
+      "type": "choices",
+      "value": {
+       "end": 12336,
+       "start": 12304,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "RE5gPZD2oq",
+      "type": "choices",
+      "value": {
+       "end": 12336,
+       "start": 12304,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "edt5VYCwMd",
+      "type": "labels",
+      "value": {
+       "end": 12361,
+       "start": 12349,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "edt5VYCwMd",
+      "type": "choices",
+      "value": {
+       "end": 12361,
+       "start": 12349,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "BKueymcFYM",
+      "type": "labels",
+      "value": {
+       "end": 14308,
+       "start": 14276,
+       "labels": [
+        "Decolonisation trajectory"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "BKueymcFYM",
+      "type": "choices",
+      "value": {
+       "end": 14308,
+       "start": 14276,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "mN_Cj2ZZ1Q",
+      "type": "labels",
+      "value": {
+       "end": 14267,
+       "start": 14263,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "mN_Cj2ZZ1Q",
+      "type": "choices",
+      "value": {
+       "end": 14267,
+       "start": 14263,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jXGD-XzjWt",
+      "type": "labels",
+      "value": {
+       "end": 14199,
+       "start": 14180,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "jXGD-XzjWt",
+      "type": "choices",
+      "value": {
+       "end": 14199,
+       "start": 14180,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "VwJTFBG-YC",
+      "type": "labels",
+      "value": {
+       "end": 14212,
+       "start": 14201,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "VwJTFBG-YC",
+      "type": "choices",
+      "value": {
+       "end": 14212,
+       "start": 14201,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "PifJU9emaC",
+      "type": "labels",
+      "value": {
+       "end": 14226,
+       "start": 14214,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "PifJU9emaC",
+      "type": "choices",
+      "value": {
+       "end": 14226,
+       "start": 14214,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "vCnN5VaaSI",
+      "type": "labels",
+      "value": {
+       "end": 14252,
+       "start": 14230,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "vCnN5VaaSI",
+      "type": "choices",
+      "value": {
+       "end": 14252,
+       "start": 14230,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "WHnUxa1qSr",
+      "type": "labels",
+      "value": {
+       "end": 14347,
+       "start": 14343,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "WHnUxa1qSr",
+      "type": "choices",
+      "value": {
+       "end": 14347,
+       "start": 14343,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "kpQbo4KlJ2",
+      "type": "labels",
+      "value": {
+       "end": 13923,
+       "start": 13914,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "kpQbo4KlJ2",
+      "type": "choices",
+      "value": {
+       "end": 13923,
+       "start": 13914,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "TGayOoEK3w",
+      "type": "labels",
+      "value": {
+       "end": 14963,
+       "start": 14953,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "TGayOoEK3w",
+      "type": "choices",
+      "value": {
+       "end": 14963,
+       "start": 14953,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "7I2AvvJDEo",
+      "type": "labels",
+      "value": {
+       "end": 14948,
+       "start": 14929,
+       "labels": [
+        "Time_vague"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "7I2AvvJDEo",
+      "type": "choices",
+      "value": {
+       "end": 14948,
+       "start": 14929,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "tAvtewNgh-",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "esoIFdOzvv",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "rtyeLGzEjV",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "esoIFdOzvv",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Fr5q3dgIAY",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "tAvtewNgh-",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "-Ncv3f9kH1",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "kWGwjvuSfo",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "-Ncv3f9kH1",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "m6ZEA9uQxR",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "-Ncv3f9kH1",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "e_4cLksaKH",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Nf4ownDdfq",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "igiXkunal4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "aav23r9xLA",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "99lS1938FM",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "s0MJXiNsO5",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "1rzQYFCu-T",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jddincsJzy",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "k7Vc9lsLAb",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "uIOJvk1ro8",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "h7SU1jCBUQ",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "uIOJvk1ro8",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "YTt18NGh2w",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "uIOJvk1ro8",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "AHBzHbPxEg",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "BheRVS_W9H",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "S1X1ssegj2",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "BheRVS_W9H",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "VDceZHqZEW",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "y1kzOMyn2W",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "n0nupRxMI7",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "y1kzOMyn2W",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "pydm_ERCVT",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "7l9HhYkI2c",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "dRO298SmpF",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "8jgmfOt-2q",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "7l9HhYkI2c",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "nku1tP3kuH",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "FGZCaGhVBK",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "6LhlI-3Owb",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "nku1tP3kuH",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "z3V54T9Emo",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "Cya7Z1tII4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "z3V54T9Emo",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "lb3Gbow0Fa",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "bAJJop34J0",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "M3T5Vv-YTD",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "CJAeubkIDd",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "RE5gPZD2oq",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "CJAeubkIDd",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "NumOf9Xx1w",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "6YxBBHHWDD",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "CJAeubkIDd",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "edt5VYCwMd",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "CJAeubkIDd",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "BKueymcFYM",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "kpQbo4KlJ2",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "BKueymcFYM",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "jXGD-XzjWt",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "BKueymcFYM",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "VwJTFBG-YC",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "BKueymcFYM",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "PifJU9emaC",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "mN_Cj2ZZ1Q",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "BKueymcFYM",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "7I2AvvJDEo",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "TGayOoEK3w",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "IDx4SC-ZYM",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "IkVjah5nV2",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T17:13:48.026654Z",
+    "updated_at": "2026-09-15T17:14:15.949718Z",
+    "draft_created_at": "2026-09-15T16:18:35.865636Z",
+    "lead_time": 3433.35,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "087a5ab3-c894-4626-87e5-c2360016c1fb",
+    "import_id": null,
+    "last_action": null,
+    "task": 371021,
+    "project": 722,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7dab36d6-reannotate_iaa_nl_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285645
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:47.637995Z",
+  "updated_at": "2026-09-15T17:14:16.059908Z",
+  "inner_id": 3,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 722,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 371022,
+  "annotations": [
+   {
+    "id": 147288,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "ymXTb9BR78",
+      "type": "labels",
+      "value": {
+       "end": 1281,
+       "start": 1269,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ymXTb9BR78",
+      "type": "choices",
+      "value": {
+       "end": 1281,
+       "start": 1269,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-vpbYIk1zW",
+      "type": "labels",
+      "value": {
+       "end": 5188,
+       "start": 5174,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-vpbYIk1zW",
+      "type": "choices",
+      "value": {
+       "end": 5188,
+       "start": 5174,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "WMWKAkY6ET",
+      "type": "labels",
+      "value": {
+       "end": 5299,
+       "start": 5289,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "WMWKAkY6ET",
+      "type": "choices",
+      "value": {
+       "end": 5299,
+       "start": 5289,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "WMWKAkY6ET",
+      "type": "choices",
+      "value": {
+       "end": 5299,
+       "start": 5289,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "WMWKAkY6ET",
+      "type": "choices",
+      "value": {
+       "end": 5299,
+       "start": 5289,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "A2ISMM176N",
+      "type": "labels",
+      "value": {
+       "end": 5229,
+       "start": 5223,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "A2ISMM176N",
+      "type": "choices",
+      "value": {
+       "end": 5229,
+       "start": 5223,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T20:34:19.776231Z",
+    "updated_at": "2026-09-15T20:34:19.776258Z",
+    "draft_created_at": "2026-09-15T20:32:22.360016Z",
+    "lead_time": 11998.009,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "129e532e-8b95-4af6-8d15-361d96e7d44b",
+    "import_id": null,
+    "last_action": null,
+    "task": 371022,
+    "project": 722,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7dab36d6-reannotate_iaa_nl_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285646
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:47.638126Z",
+  "updated_at": "2026-09-15T20:34:19.858452Z",
+  "inner_id": 4,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 722,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 371023,
+  "annotations": [
+   {
+    "id": 147289,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "e7HB4bATDD",
+      "type": "labels",
+      "value": {
+       "end": 225,
+       "start": 211,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "e7HB4bATDD",
+      "type": "choices",
+      "value": {
+       "end": 225,
+       "start": 211,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "yOqrIMRb0W",
+      "type": "labels",
+      "value": {
+       "end": 504,
+       "start": 488,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "yOqrIMRb0W",
+      "type": "choices",
+      "value": {
+       "end": 504,
+       "start": 488,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-S6Ub2E-ov",
+      "type": "labels",
+      "value": {
+       "end": 475,
+       "start": 463,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-S6Ub2E-ov",
+      "type": "choices",
+      "value": {
+       "end": 475,
+       "start": 463,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-S6Ub2E-ov",
+      "type": "choices",
+      "value": {
+       "end": 475,
+       "start": 463,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "-S6Ub2E-ov",
+      "type": "choices",
+      "value": {
+       "end": 475,
+       "start": 463,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "2wMqprYQbr",
+      "type": "labels",
+      "value": {
+       "end": 2076,
+       "start": 2062,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "2wMqprYQbr",
+      "type": "choices",
+      "value": {
+       "end": 2076,
+       "start": 2062,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "UhCM2nQfh-",
+      "type": "labels",
+      "value": {
+       "end": 2221,
+       "start": 2207,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "UhCM2nQfh-",
+      "type": "choices",
+      "value": {
+       "end": 2221,
+       "start": 2207,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "yevtHqPqF7",
+      "type": "labels",
+      "value": {
+       "end": 3005,
+       "start": 2991,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "yevtHqPqF7",
+      "type": "choices",
+      "value": {
+       "end": 3005,
+       "start": 2991,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "TUAH3NsmaZ",
+      "type": "labels",
+      "value": {
+       "end": 3465,
+       "start": 3455,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "TUAH3NsmaZ",
+      "type": "choices",
+      "value": {
+       "end": 3465,
+       "start": 3455,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "TUAH3NsmaZ",
+      "type": "choices",
+      "value": {
+       "end": 3465,
+       "start": 3455,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "TUAH3NsmaZ",
+      "type": "choices",
+      "value": {
+       "end": 3465,
+       "start": 3455,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "qkwAU1vJ8_",
+      "type": "labels",
+      "value": {
+       "end": 3747,
+       "start": 3717,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "qkwAU1vJ8_",
+      "type": "choices",
+      "value": {
+       "end": 3747,
+       "start": 3717,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "riUWCe5c4O",
+      "type": "labels",
+      "value": {
+       "end": 3777,
+       "start": 3774,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "riUWCe5c4O",
+      "type": "choices",
+      "value": {
+       "end": 3777,
+       "start": 3774,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "mZDjm06je4",
+      "type": "labels",
+      "value": {
+       "end": 3802,
+       "start": 3781,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "mZDjm06je4",
+      "type": "choices",
+      "value": {
+       "end": 3802,
+       "start": 3781,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "-S6Ub2E-ov",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "yOqrIMRb0W",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "TUAH3NsmaZ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "qkwAU1vJ8_",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "TUAH3NsmaZ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "riUWCe5c4O",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "TUAH3NsmaZ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "mZDjm06je4",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T20:40:15.398564Z",
+    "updated_at": "2026-09-15T20:40:15.398587Z",
+    "draft_created_at": "2026-09-15T20:34:37.649260Z",
+    "lead_time": 353.093,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "9c586a40-6af3-48b2-9fa6-b353e46ac1ed",
+    "import_id": null,
+    "last_action": null,
+    "task": 371023,
+    "project": 722,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7dab36d6-reannotate_iaa_nl_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285652
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:47.638257Z",
+  "updated_at": "2026-09-15T20:40:15.462807Z",
+  "inner_id": 5,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 722,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 371024,
+  "annotations": [
+   {
+    "id": 147801,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "GSfLaEL8Oh",
+      "type": "labels",
+      "value": {
+       "end": 155,
+       "start": 151,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "GSfLaEL8Oh",
+      "type": "choices",
+      "value": {
+       "end": 155,
+       "start": 151,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "tifDajOdeJ",
+      "type": "labels",
+      "value": {
+       "end": 86,
+       "start": 71,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "tifDajOdeJ",
+      "type": "choices",
+      "value": {
+       "end": 86,
+       "start": 71,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "VPOl90_WAy",
+      "type": "labels",
+      "value": {
+       "end": 96,
+       "start": 87,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "VPOl90_WAy",
+      "type": "choices",
+      "value": {
+       "end": 96,
+       "start": 87,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "MbOpZ99w71",
+      "type": "labels",
+      "value": {
+       "end": 4360,
+       "start": 4344,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "MbOpZ99w71",
+      "type": "choices",
+      "value": {
+       "end": 4360,
+       "start": 4344,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "RsW9ui9tO8",
+      "type": "labels",
+      "value": {
+       "end": 4310,
+       "start": 4287,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "RsW9ui9tO8",
+      "type": "choices",
+      "value": {
+       "end": 4310,
+       "start": 4287,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "i4x6f6FieV",
+      "type": "labels",
+      "value": {
+       "end": 4417,
+       "start": 4403,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "i4x6f6FieV",
+      "type": "choices",
+      "value": {
+       "end": 4417,
+       "start": 4403,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "2so0cYP9AR",
+      "type": "labels",
+      "value": {
+       "end": 4648,
+       "start": 4635,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "2so0cYP9AR",
+      "type": "choices",
+      "value": {
+       "end": 4648,
+       "start": 4635,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Up45z2Ou-i",
+      "type": "labels",
+      "value": {
+       "end": 4310,
+       "start": 4303,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Up45z2Ou-i",
+      "type": "choices",
+      "value": {
+       "end": 4310,
+       "start": 4303,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "fubP2G3365",
+      "type": "labels",
+      "value": {
+       "end": 202,
+       "start": 198,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "fubP2G3365",
+      "type": "choices",
+      "value": {
+       "end": 202,
+       "start": 198,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Be0aiTSYd8",
+      "type": "labels",
+      "value": {
+       "end": 767,
+       "start": 763,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Be0aiTSYd8",
+      "type": "choices",
+      "value": {
+       "end": 767,
+       "start": 763,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "qpkjYoO4fA",
+      "type": "labels",
+      "value": {
+       "end": 739,
+       "start": 725,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "qpkjYoO4fA",
+      "type": "choices",
+      "value": {
+       "end": 739,
+       "start": 725,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "80XFRsc6ad",
+      "type": "labels",
+      "value": {
+       "end": 1056,
+       "start": 1052,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "80XFRsc6ad",
+      "type": "choices",
+      "value": {
+       "end": 1056,
+       "start": 1052,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "3-ZgeGxKgF",
+      "type": "labels",
+      "value": {
+       "end": 1076,
+       "start": 1060,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "3-ZgeGxKgF",
+      "type": "choices",
+      "value": {
+       "end": 1076,
+       "start": 1060,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "YOexXQ86dB",
+      "type": "labels",
+      "value": {
+       "end": 3886,
+       "start": 3882,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "YOexXQ86dB",
+      "type": "choices",
+      "value": {
+       "end": 3886,
+       "start": 3882,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "LNXBoyeNHy",
+      "type": "labels",
+      "value": {
+       "end": 3851,
+       "start": 3837,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "LNXBoyeNHy",
+      "type": "choices",
+      "value": {
+       "end": 3851,
+       "start": 3837,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-gIzR5Jam8",
+      "type": "labels",
+      "value": {
+       "end": 86,
+       "start": 79,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-gIzR5Jam8",
+      "type": "choices",
+      "value": {
+       "end": 86,
+       "start": 79,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "_FZn5Bn0Xd",
+      "type": "labels",
+      "value": {
+       "end": 869,
+       "start": 857,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "_FZn5Bn0Xd",
+      "type": "choices",
+      "value": {
+       "end": 869,
+       "start": 857,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "_FZn5Bn0Xd",
+      "type": "choices",
+      "value": {
+       "end": 869,
+       "start": 857,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "_FZn5Bn0Xd",
+      "type": "choices",
+      "value": {
+       "end": 869,
+       "start": 857,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "8iHb9bSiR6",
+      "type": "labels",
+      "value": {
+       "end": 843,
+       "start": 835,
+       "labels": [
+        "Time_vague"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "8iHb9bSiR6",
+      "type": "choices",
+      "value": {
+       "end": 843,
+       "start": 835,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "GSfLaEL8Oh",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "tifDajOdeJ",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "GSfLaEL8Oh",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "VPOl90_WAy",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "MbOpZ99w71",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "RsW9ui9tO8",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "MbOpZ99w71",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "i4x6f6FieV",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "MbOpZ99w71",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "2so0cYP9AR",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Be0aiTSYd8",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "qpkjYoO4fA",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "80XFRsc6ad",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "3-ZgeGxKgF",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "YOexXQ86dB",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "LNXBoyeNHy",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "_FZn5Bn0Xd",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "qpkjYoO4fA",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "8iHb9bSiR6",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "_FZn5Bn0Xd",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-18T01:25:54.744188Z",
+    "updated_at": "2026-09-18T03:06:31.288456Z",
+    "draft_created_at": "2026-09-18T01:14:07.043816Z",
+    "lead_time": 1217.859,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "d07abaeb-9eda-4169-a207-1ef7d141226e",
+    "import_id": null,
+    "last_action": null,
+    "task": 371024,
+    "project": 722,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7dab36d6-reannotate_iaa_nl_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285653
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:47.638386Z",
+  "updated_at": "2026-09-18T03:06:31.388463Z",
+  "inner_id": 6,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 722,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 371025,
+  "annotations": [
+   {
+    "id": 147802,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "BECJ9B8HYG",
+      "type": "labels",
+      "value": {
+       "end": 13,
+       "start": 0,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "BECJ9B8HYG",
+      "type": "choices",
+      "value": {
+       "end": 13,
+       "start": 0,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "lo51F04QIB",
+      "type": "labels",
+      "value": {
+       "end": 71,
+       "start": 53,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "lo51F04QIB",
+      "type": "choices",
+      "value": {
+       "end": 71,
+       "start": 53,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "1UrstDPMTh",
+      "type": "labels",
+      "value": {
+       "end": 180,
+       "start": 173,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "1UrstDPMTh",
+      "type": "choices",
+      "value": {
+       "end": 180,
+       "start": 173,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "7ZcgKBK7Vu",
+      "type": "labels",
+      "value": {
+       "end": 191,
+       "start": 183,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "7ZcgKBK7Vu",
+      "type": "choices",
+      "value": {
+       "end": 191,
+       "start": 183,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "s_gAQwxhs3",
+      "type": "labels",
+      "value": {
+       "end": 243,
+       "start": 238,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "s_gAQwxhs3",
+      "type": "choices",
+      "value": {
+       "end": 243,
+       "start": 238,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Novp5caE3x",
+      "type": "labels",
+      "value": {
+       "end": 790,
+       "start": 780,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Novp5caE3x",
+      "type": "choices",
+      "value": {
+       "end": 790,
+       "start": 780,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Novp5caE3x",
+      "type": "choices",
+      "value": {
+       "end": 790,
+       "start": 780,
+       "choices": [
+        "Commemorative events"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "Novp5caE3x",
+      "type": "choices",
+      "value": {
+       "end": 790,
+       "start": 780,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "5te9AI46Xj",
+      "type": "labels",
+      "value": {
+       "end": 761,
+       "start": 751,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "5te9AI46Xj",
+      "type": "choices",
+      "value": {
+       "end": 761,
+       "start": 751,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "3FDSjlccUH",
+      "type": "labels",
+      "value": {
+       "end": 840,
+       "start": 835,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "3FDSjlccUH",
+      "type": "choices",
+      "value": {
+       "end": 840,
+       "start": 835,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "3FDSjlccUH",
+      "type": "choices",
+      "value": {
+       "end": 840,
+       "start": 835,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "3FDSjlccUH",
+      "type": "choices",
+      "value": {
+       "end": 840,
+       "start": 835,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "VsEKQlxiJK",
+      "type": "labels",
+      "value": {
+       "end": 386,
+       "start": 370,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "VsEKQlxiJK",
+      "type": "choices",
+      "value": {
+       "end": 386,
+       "start": 370,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "VsEKQlxiJK",
+      "type": "choices",
+      "value": {
+       "end": 386,
+       "start": 370,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "VsEKQlxiJK",
+      "type": "choices",
+      "value": {
+       "end": 386,
+       "start": 370,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "b4vL8COBj8",
+      "type": "labels",
+      "value": {
+       "end": 101,
+       "start": 96,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "b4vL8COBj8",
+      "type": "choices",
+      "value": {
+       "end": 101,
+       "start": 96,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ur2nIzPZ3R",
+      "type": "labels",
+      "value": {
+       "end": 122,
+       "start": 113,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ur2nIzPZ3R",
+      "type": "choices",
+      "value": {
+       "end": 122,
+       "start": 113,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "KD7o_nUg3x",
+      "type": "labels",
+      "value": {
+       "end": 143,
+       "start": 126,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "KD7o_nUg3x",
+      "type": "choices",
+      "value": {
+       "end": 143,
+       "start": 126,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Eg2l2xsRUR",
+      "type": "labels",
+      "value": {
+       "end": 111,
+       "start": 103,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Eg2l2xsRUR",
+      "type": "choices",
+      "value": {
+       "end": 111,
+       "start": 103,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "PHlk6q9u1x",
+      "type": "labels",
+      "value": {
+       "end": 1273,
+       "start": 1265,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "PHlk6q9u1x",
+      "type": "choices",
+      "value": {
+       "end": 1273,
+       "start": 1265,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jS1FH3hnNq",
+      "type": "labels",
+      "value": {
+       "end": 1370,
+       "start": 1352,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "jS1FH3hnNq",
+      "type": "choices",
+      "value": {
+       "end": 1370,
+       "start": 1352,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "BECJ9B8HYG",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "lo51F04QIB",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "7ZcgKBK7Vu",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "s_gAQwxhs3",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Novp5caE3x",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "5te9AI46Xj",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Novp5caE3x",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "3FDSjlccUH",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "PHlk6q9u1x",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "jS1FH3hnNq",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-18T01:44:13.635209Z",
+    "updated_at": "2026-09-18T01:44:13.635236Z",
+    "draft_created_at": "2026-09-18T01:27:16.634739Z",
+    "lead_time": 1089.881,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "f9b08621-3efa-4b6a-8dee-6a9ed94d9de9",
+    "import_id": null,
+    "last_action": null,
+    "task": 371025,
+    "project": 722,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7dab36d6-reannotate_iaa_nl_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285654
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:47.638514Z",
+  "updated_at": "2026-09-18T01:44:13.720192Z",
+  "inner_id": 7,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 722,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 371026,
+  "annotations": [
+   {
+    "id": 147803,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "DP4Y4spe0c",
+      "type": "labels",
+      "value": {
+       "end": 51,
+       "start": 19,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "DP4Y4spe0c",
+      "type": "choices",
+      "value": {
+       "end": 51,
+       "start": 19,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "DP4Y4spe0c",
+      "type": "choices",
+      "value": {
+       "end": 51,
+       "start": 19,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "DP4Y4spe0c",
+      "type": "choices",
+      "value": {
+       "end": 51,
+       "start": 19,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "0xsVvyQiqa",
+      "type": "labels",
+      "value": {
+       "end": 68,
+       "start": 62,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "0xsVvyQiqa",
+      "type": "choices",
+      "value": {
+       "end": 68,
+       "start": 62,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Vov-XII_8a",
+      "type": "labels",
+      "value": {
+       "end": 81,
+       "start": 72,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Vov-XII_8a",
+      "type": "choices",
+      "value": {
+       "end": 81,
+       "start": 72,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "n8svFwghJU",
+      "type": "labels",
+      "value": {
+       "end": 508,
+       "start": 498,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "n8svFwghJU",
+      "type": "choices",
+      "value": {
+       "end": 508,
+       "start": 498,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "REg-ynQMhb",
+      "type": "labels",
+      "value": {
+       "end": 118,
+       "start": 105,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "REg-ynQMhb",
+      "type": "choices",
+      "value": {
+       "end": 118,
+       "start": 105,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "0xsVvyQiqa",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "DP4Y4spe0c",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "DP4Y4spe0c",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "REg-ynQMhb",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-18T01:45:59.785243Z",
+    "updated_at": "2026-09-18T03:03:25.129238Z",
+    "draft_created_at": "2026-09-18T01:44:46.868484Z",
+    "lead_time": 136.417,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "9c7666c5-ac38-4526-a66a-3f77837c58fb",
+    "import_id": null,
+    "last_action": null,
+    "task": 371026,
+    "project": 722,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7dab36d6-reannotate_iaa_nl_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285655
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:47.638641Z",
+  "updated_at": "2026-09-18T03:03:25.241083Z",
+  "inner_id": 8,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 722,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 371027,
+  "annotations": [
+   {
+    "id": 147804,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "NFZLMH5Vvk",
+      "type": "labels",
+      "value": {
+       "end": 321,
+       "start": 304,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "NFZLMH5Vvk",
+      "type": "choices",
+      "value": {
+       "end": 321,
+       "start": 304,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ok29KTsB4H",
+      "type": "labels",
+      "value": {
+       "end": 946,
+       "start": 928,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ok29KTsB4H",
+      "type": "choices",
+      "value": {
+       "end": 946,
+       "start": 928,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "JWCIw_i0Lu",
+      "type": "labels",
+      "value": {
+       "end": 1006,
+       "start": 989,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "JWCIw_i0Lu",
+      "type": "choices",
+      "value": {
+       "end": 1006,
+       "start": 989,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "uNhA-fG-lz",
+      "type": "labels",
+      "value": {
+       "end": 1542,
+       "start": 1521,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "uNhA-fG-lz",
+      "type": "choices",
+      "value": {
+       "end": 1542,
+       "start": 1521,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jSkvXJ7vk_",
+      "type": "labels",
+      "value": {
+       "end": 2003,
+       "start": 1986,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "jSkvXJ7vk_",
+      "type": "choices",
+      "value": {
+       "end": 2003,
+       "start": 1986,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "EYO8kPIZfH",
+      "type": "labels",
+      "value": {
+       "end": 5638,
+       "start": 5621,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "EYO8kPIZfH",
+      "type": "choices",
+      "value": {
+       "end": 5638,
+       "start": 5621,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "SJ3UkJjD-o",
+      "type": "labels",
+      "value": {
+       "end": 7548,
+       "start": 7465,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "SJ3UkJjD-o",
+      "type": "choices",
+      "value": {
+       "end": 7548,
+       "start": 7465,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "sDsz4Vac7D",
+      "type": "labels",
+      "value": {
+       "end": 7574,
+       "start": 7570,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "sDsz4Vac7D",
+      "type": "choices",
+      "value": {
+       "end": 7574,
+       "start": 7570,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "tGfmjwoZZ2",
+      "type": "labels",
+      "value": {
+       "end": 7457,
+       "start": 7436,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "tGfmjwoZZ2",
+      "type": "choices",
+      "value": {
+       "end": 7457,
+       "start": 7436,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "uDMSbUExVX",
+      "type": "labels",
+      "value": {
+       "end": 7108,
+       "start": 7091,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "uDMSbUExVX",
+      "type": "choices",
+      "value": {
+       "end": 7108,
+       "start": 7091,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "VNUyyXXn8L",
+      "type": "labels",
+      "value": {
+       "end": 6003,
+       "start": 5989,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "VNUyyXXn8L",
+      "type": "choices",
+      "value": {
+       "end": 6003,
+       "start": 5989,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "CK61RFCEf8",
+      "type": "labels",
+      "value": {
+       "end": 4482,
+       "start": 4470,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "CK61RFCEf8",
+      "type": "choices",
+      "value": {
+       "end": 4482,
+       "start": 4470,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "iLQPIY-Xge",
+      "type": "labels",
+      "value": {
+       "end": 3185,
+       "start": 3165,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "iLQPIY-Xge",
+      "type": "choices",
+      "value": {
+       "end": 3185,
+       "start": 3165,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "1tZXB-vjQ5",
+      "type": "labels",
+      "value": {
+       "end": 2705,
+       "start": 2690,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "1tZXB-vjQ5",
+      "type": "choices",
+      "value": {
+       "end": 2705,
+       "start": 2690,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "upD8j1CD5R",
+      "type": "labels",
+      "value": {
+       "end": 3054,
+       "start": 3036,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "upD8j1CD5R",
+      "type": "choices",
+      "value": {
+       "end": 3054,
+       "start": 3036,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "l5SATdq8tM",
+      "type": "labels",
+      "value": {
+       "end": 2518,
+       "start": 2493,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "l5SATdq8tM",
+      "type": "choices",
+      "value": {
+       "end": 2518,
+       "start": 2493,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "v1AkjkWBYl",
+      "type": "labels",
+      "value": {
+       "end": 516,
+       "start": 492,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "v1AkjkWBYl",
+      "type": "choices",
+      "value": {
+       "end": 516,
+       "start": 492,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "h3is_oMLEt",
+      "type": "labels",
+      "value": {
+       "end": 543,
+       "start": 522,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "h3is_oMLEt",
+      "type": "choices",
+      "value": {
+       "end": 543,
+       "start": 522,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "i9oyxAM-ao",
+      "type": "labels",
+      "value": {
+       "end": 3259,
+       "start": 3240,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "i9oyxAM-ao",
+      "type": "choices",
+      "value": {
+       "end": 3259,
+       "start": 3240,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "JWCIw_i0Lu",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "uNhA-fG-lz",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "SJ3UkJjD-o",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "tGfmjwoZZ2",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "sDsz4Vac7D",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "SJ3UkJjD-o",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "v1AkjkWBYl",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "h3is_oMLEt",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jSkvXJ7vk_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "l5SATdq8tM",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jSkvXJ7vk_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "1tZXB-vjQ5",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jSkvXJ7vk_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "upD8j1CD5R",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jSkvXJ7vk_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "iLQPIY-Xge",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jSkvXJ7vk_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "CK61RFCEf8",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "EYO8kPIZfH",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "VNUyyXXn8L",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jSkvXJ7vk_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "i9oyxAM-ao",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-18T02:05:22.270027Z",
+    "updated_at": "2026-09-18T02:05:22.270053Z",
+    "draft_created_at": "2026-09-18T01:47:58.019196Z",
+    "lead_time": 1154.951,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "13174348-0fb6-4521-8cc3-804333d933f8",
+    "import_id": null,
+    "last_action": null,
+    "task": 371027,
+    "project": 722,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7dab36d6-reannotate_iaa_nl_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285673
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:47.638770Z",
+  "updated_at": "2026-09-18T02:05:22.356240Z",
+  "inner_id": 9,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 722,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 371028,
+  "annotations": [
+   {
+    "id": 147805,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "jk7heKA1Vq",
+      "type": "labels",
+      "value": {
+       "end": 551,
+       "start": 541,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "jk7heKA1Vq",
+      "type": "choices",
+      "value": {
+       "end": 551,
+       "start": 541,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jk7heKA1Vq",
+      "type": "choices",
+      "value": {
+       "end": 551,
+       "start": 541,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "jk7heKA1Vq",
+      "type": "choices",
+      "value": {
+       "end": 551,
+       "start": 541,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "qK7gE8AhSW",
+      "type": "labels",
+      "value": {
+       "end": 576,
+       "start": 559,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "qK7gE8AhSW",
+      "type": "choices",
+      "value": {
+       "end": 576,
+       "start": 559,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "rOAHVPUnD2",
+      "type": "labels",
+      "value": {
+       "end": 592,
+       "start": 580,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "rOAHVPUnD2",
+      "type": "choices",
+      "value": {
+       "end": 592,
+       "start": 580,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "VKHn6lsBTT",
+      "type": "labels",
+      "value": {
+       "end": 819,
+       "start": 813,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "VKHn6lsBTT",
+      "type": "choices",
+      "value": {
+       "end": 819,
+       "start": 813,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "TuKkyvZtfd",
+      "type": "labels",
+      "value": {
+       "end": 1875,
+       "start": 1865,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "TuKkyvZtfd",
+      "type": "choices",
+      "value": {
+       "end": 1875,
+       "start": 1865,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "fX713ZVYLX",
+      "type": "labels",
+      "value": {
+       "end": 1629,
+       "start": 1622,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "fX713ZVYLX",
+      "type": "choices",
+      "value": {
+       "end": 1629,
+       "start": 1622,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "dXWI5YPW3_",
+      "type": "labels",
+      "value": {
+       "end": 1702,
+       "start": 1695,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "dXWI5YPW3_",
+      "type": "choices",
+      "value": {
+       "end": 1702,
+       "start": 1695,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "qVDmqwwh7M",
+      "type": "labels",
+      "value": {
+       "end": 1734,
+       "start": 1710,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "qVDmqwwh7M",
+      "type": "choices",
+      "value": {
+       "end": 1734,
+       "start": 1710,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "qVDmqwwh7M",
+      "type": "choices",
+      "value": {
+       "end": 1734,
+       "start": 1710,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "qVDmqwwh7M",
+      "type": "choices",
+      "value": {
+       "end": 1734,
+       "start": 1710,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "eyHbS9MAAi",
+      "type": "labels",
+      "value": {
+       "end": 1200,
+       "start": 1186,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "eyHbS9MAAi",
+      "type": "choices",
+      "value": {
+       "end": 1200,
+       "start": 1186,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "eyHbS9MAAi",
+      "type": "choices",
+      "value": {
+       "end": 1200,
+       "start": 1186,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "eyHbS9MAAi",
+      "type": "choices",
+      "value": {
+       "end": 1200,
+       "start": 1186,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "type": "relation",
+      "to_id": "jk7heKA1Vq",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "qK7gE8AhSW",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jk7heKA1Vq",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "rOAHVPUnD2",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jk7heKA1Vq",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "VKHn6lsBTT",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "fX713ZVYLX",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "qVDmqwwh7M",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jk7heKA1Vq",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "eyHbS9MAAi",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-18T02:10:29.182677Z",
+    "updated_at": "2026-09-18T02:10:29.182704Z",
+    "draft_created_at": "2026-09-18T02:06:24.483341Z",
+    "lead_time": 304.459,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "dfba1631-49be-4c70-b61a-ec23f994befb",
+    "import_id": null,
+    "last_action": null,
+    "task": 371028,
+    "project": 722,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7dab36d6-reannotate_iaa_nl_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285675
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:47.638897Z",
+  "updated_at": "2026-09-18T02:10:29.264658Z",
+  "inner_id": 10,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 722,
+  "updated_by": 1188,
+  "comment_authors": []
+ }
+]

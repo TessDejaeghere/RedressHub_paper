@@ -1,0 +1,9055 @@
+[
+ {
+  "id": 370915,
+  "annotations": [
+   {
+    "id": 148556,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "d7JgL8nfn_",
+      "type": "labels",
+      "value": {
+       "end": 90,
+       "start": 48,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "d7JgL8nfn_",
+      "type": "choices",
+      "value": {
+       "end": 90,
+       "start": 48,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "0334hJT7JB",
+      "type": "labels",
+      "value": {
+       "end": 402,
+       "start": 390,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "0334hJT7JB",
+      "type": "choices",
+      "value": {
+       "end": 402,
+       "start": 390,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "DOSm_Q4W7V",
+      "type": "labels",
+      "value": {
+       "end": 347,
+       "start": 332,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "DOSm_Q4W7V",
+      "type": "choices",
+      "value": {
+       "end": 347,
+       "start": 332,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "xkRCcOBft4",
+      "type": "labels",
+      "value": {
+       "end": 1058,
+       "start": 1046,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "xkRCcOBft4",
+      "type": "choices",
+      "value": {
+       "end": 1058,
+       "start": 1046,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "0qaQiyhYip",
+      "type": "labels",
+      "value": {
+       "end": 1079,
+       "start": 1063,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "0qaQiyhYip",
+      "type": "choices",
+      "value": {
+       "end": 1079,
+       "start": 1063,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "YsoF54AJhu",
+      "type": "labels",
+      "value": {
+       "end": 1346,
+       "start": 1341,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "YsoF54AJhu",
+      "type": "choices",
+      "value": {
+       "end": 1346,
+       "start": 1341,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "YsoF54AJhu",
+      "type": "choices",
+      "value": {
+       "end": 1346,
+       "start": 1341,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "YsoF54AJhu",
+      "type": "choices",
+      "value": {
+       "end": 1346,
+       "start": 1341,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "pSiTMSgjun",
+      "type": "labels",
+      "value": {
+       "end": 1208,
+       "start": 1200,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "pSiTMSgjun",
+      "type": "choices",
+      "value": {
+       "end": 1208,
+       "start": 1200,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "DOSm_Q4W7V",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "d7JgL8nfn_",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "d7JgL8nfn_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "0334hJT7JB",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "d7JgL8nfn_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "xkRCcOBft4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "d7JgL8nfn_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "0qaQiyhYip",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "d7JgL8nfn_",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "YsoF54AJhu",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-25T03:15:10.701157Z",
+    "updated_at": "2026-09-25T03:15:10.701171Z",
+    "draft_created_at": "2026-09-25T03:09:44.562329Z",
+    "lead_time": 638.629,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "ea9b2549-1ee5-424d-85d1-03099aee88c8",
+    "import_id": null,
+    "last_action": null,
+    "task": 370915,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [
+   {
+    "id": 80532,
+    "user": "tess.dejaeghere@ugent.be",
+    "created_username": "tess.dejaeghere@ugent.be, 644",
+    "created_ago": "3 weeks, 4 days",
+    "result": [
+     {
+      "id": "YvDFYnhEw8",
+      "type": "labels",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "YvDFYnhEw8",
+      "type": "choices",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "QTPhZ5w2N4",
+      "type": "labels",
+      "value": {
+       "end": 57,
+       "start": 48,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "QTPhZ5w2N4",
+      "type": "choices",
+      "value": {
+       "end": 57,
+       "start": 48,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "QTPhZ5w2N4",
+      "type": "choices",
+      "value": {
+       "end": 57,
+       "start": 48,
+       "choices": [
+        "Decolonisation trajectory"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "QTPhZ5w2N4",
+      "type": "choices",
+      "value": {
+       "end": 57,
+       "start": 48,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "kXQSLviOyE",
+      "type": "labels",
+      "value": {
+       "end": 303,
+       "start": 297,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "kXQSLviOyE",
+      "type": "choices",
+      "value": {
+       "end": 303,
+       "start": 297,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "CLaocfhoQ4",
+      "type": "labels",
+      "value": {
+       "end": 453,
+       "start": 448,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Vrz7m6_g5J",
+      "type": "labels",
+      "value": {
+       "end": 567,
+       "start": 557,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Vrz7m6_g5J",
+      "type": "choices",
+      "value": {
+       "end": 567,
+       "start": 557,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "btbXPTuzjN",
+      "type": "labels",
+      "value": {
+       "end": 461,
+       "start": 455,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "btbXPTuzjN",
+      "type": "choices",
+      "value": {
+       "end": 461,
+       "start": 455,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     }
+    ],
+    "lead_time": 76.242,
+    "was_postponed": false,
+    "import_id": null,
+    "created_at": "2026-09-02T11:47:11.351275Z",
+    "updated_at": "2026-09-02T13:37:35.459281Z",
+    "task": 370915,
+    "annotation": null
+   }
+  ],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335635
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.405100Z",
+  "updated_at": "2026-09-25T03:15:10.756437Z",
+  "inner_id": 1,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370916,
+  "annotations": [
+   {
+    "id": 148557,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "nziQnRvK3a",
+      "type": "labels",
+      "value": {
+       "end": 386,
+       "start": 334,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "nziQnRvK3a",
+      "type": "choices",
+      "value": {
+       "end": 386,
+       "start": 334,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "nziQnRvK3a",
+      "type": "choices",
+      "value": {
+       "end": 386,
+       "start": 334,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "nziQnRvK3a",
+      "type": "choices",
+      "value": {
+       "end": 386,
+       "start": 334,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "QkyK3oklfo",
+      "type": "labels",
+      "value": {
+       "end": 237,
+       "start": 227,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "QkyK3oklfo",
+      "type": "choices",
+      "value": {
+       "end": 237,
+       "start": 227,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "CRwT6dVYGR",
+      "type": "labels",
+      "value": {
+       "end": 255,
+       "start": 243,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "CRwT6dVYGR",
+      "type": "choices",
+      "value": {
+       "end": 255,
+       "start": 243,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "DTAyfnjM8Y",
+      "type": "labels",
+      "value": {
+       "end": 660,
+       "start": 645,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "DTAyfnjM8Y",
+      "type": "choices",
+      "value": {
+       "end": 660,
+       "start": 645,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "LrHkldt_pF",
+      "type": "labels",
+      "value": {
+       "end": 621,
+       "start": 611,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "LrHkldt_pF",
+      "type": "choices",
+      "value": {
+       "end": 621,
+       "start": 611,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "pJz4kQywBw",
+      "type": "labels",
+      "value": {
+       "end": 730,
+       "start": 718,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "pJz4kQywBw",
+      "type": "choices",
+      "value": {
+       "end": 730,
+       "start": 718,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "gSDsYDJG54",
+      "type": "labels",
+      "value": {
+       "end": 1259,
+       "start": 1239,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "gSDsYDJG54",
+      "type": "choices",
+      "value": {
+       "end": 1259,
+       "start": 1239,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "dobNIPmhHg",
+      "type": "labels",
+      "value": {
+       "end": 1297,
+       "start": 1277,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "dobNIPmhHg",
+      "type": "choices",
+      "value": {
+       "end": 1297,
+       "start": 1277,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "kNqKc2PzKI",
+      "type": "labels",
+      "value": {
+       "end": 1358,
+       "start": 1320,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "kNqKc2PzKI",
+      "type": "choices",
+      "value": {
+       "end": 1358,
+       "start": 1320,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "NZ__pNmW84",
+      "type": "labels",
+      "value": {
+       "end": 1661,
+       "start": 1651,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "NZ__pNmW84",
+      "type": "choices",
+      "value": {
+       "end": 1661,
+       "start": 1651,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "lcrxWICXoJ",
+      "type": "labels",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "lcrxWICXoJ",
+      "type": "choices",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "xbLhZpXuM6",
+      "type": "labels",
+      "value": {
+       "end": 1681,
+       "start": 1663,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "xbLhZpXuM6",
+      "type": "choices",
+      "value": {
+       "end": 1681,
+       "start": 1663,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "X5IjInrspB",
+      "type": "labels",
+      "value": {
+       "end": 1767,
+       "start": 1754,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "X5IjInrspB",
+      "type": "choices",
+      "value": {
+       "end": 1767,
+       "start": 1754,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "vnTUTg6VTj",
+      "type": "labels",
+      "value": {
+       "end": 1821,
+       "start": 1806,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "vnTUTg6VTj",
+      "type": "choices",
+      "value": {
+       "end": 1821,
+       "start": 1806,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ffHPFoRp16",
+      "type": "labels",
+      "value": {
+       "end": 1906,
+       "start": 1894,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ffHPFoRp16",
+      "type": "choices",
+      "value": {
+       "end": 1906,
+       "start": 1894,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "EfcSeM_u0z",
+      "type": "labels",
+      "value": {
+       "end": 1946,
+       "start": 1931,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "EfcSeM_u0z",
+      "type": "choices",
+      "value": {
+       "end": 1946,
+       "start": 1931,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "nziQnRvK3a",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "CRwT6dVYGR",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "QkyK3oklfo",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "nziQnRvK3a",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "nziQnRvK3a",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "gSDsYDJG54",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "nziQnRvK3a",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "dobNIPmhHg",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "nziQnRvK3a",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "kNqKc2PzKI",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "DTAyfnjM8Y",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "LrHkldt_pF",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "DTAyfnjM8Y",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "pJz4kQywBw",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "NZ__pNmW84",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "xbLhZpXuM6",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "NZ__pNmW84",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "X5IjInrspB",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "NZ__pNmW84",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "vnTUTg6VTj",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "NZ__pNmW84",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "ffHPFoRp16",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "NZ__pNmW84",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "EfcSeM_u0z",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-25T03:26:39.116935Z",
+    "updated_at": "2026-09-25T03:42:03.626883Z",
+    "draft_created_at": "2026-09-25T03:16:37.617190Z",
+    "lead_time": 751.1199999999999,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "0bdf09e9-e03e-4617-bb62-cc8cdeb69ef4",
+    "import_id": null,
+    "last_action": null,
+    "task": 370916,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335551
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.405300Z",
+  "updated_at": "2026-09-25T03:42:03.739502Z",
+  "inner_id": 2,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370917,
+  "annotations": [
+   {
+    "id": 148558,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "Kx_lsVowqA",
+      "type": "labels",
+      "value": {
+       "end": 121,
+       "start": 90,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Kx_lsVowqA",
+      "type": "choices",
+      "value": {
+       "end": 121,
+       "start": 90,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "xl0rysUzFE",
+      "type": "labels",
+      "value": {
+       "end": 139,
+       "start": 127,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "xl0rysUzFE",
+      "type": "choices",
+      "value": {
+       "end": 139,
+       "start": 127,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "QIoMK9UdK6",
+      "type": "labels",
+      "value": {
+       "end": 206,
+       "start": 164,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "QIoMK9UdK6",
+      "type": "choices",
+      "value": {
+       "end": 206,
+       "start": 164,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "sVKO5nethT",
+      "type": "labels",
+      "value": {
+       "end": 418,
+       "start": 406,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "sVKO5nethT",
+      "type": "choices",
+      "value": {
+       "end": 418,
+       "start": 406,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "dSmEsuyi3M",
+      "type": "labels",
+      "value": {
+       "end": 439,
+       "start": 423,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "dSmEsuyi3M",
+      "type": "choices",
+      "value": {
+       "end": 439,
+       "start": 423,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-YFTW71EHF",
+      "type": "labels",
+      "value": {
+       "end": 327,
+       "start": 315,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-YFTW71EHF",
+      "type": "choices",
+      "value": {
+       "end": 327,
+       "start": 315,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "rwRY605hVj",
+      "type": "labels",
+      "value": {
+       "end": 377,
+       "start": 356,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "rwRY605hVj",
+      "type": "choices",
+      "value": {
+       "end": 377,
+       "start": 356,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "HBKRKkEtCu",
+      "type": "labels",
+      "value": {
+       "end": 389,
+       "start": 381,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "HBKRKkEtCu",
+      "type": "choices",
+      "value": {
+       "end": 389,
+       "start": 381,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-_hZx5XZ7I",
+      "type": "labels",
+      "value": {
+       "end": 400,
+       "start": 396,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-_hZx5XZ7I",
+      "type": "choices",
+      "value": {
+       "end": 400,
+       "start": 396,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "R2BLDOstoE",
+      "type": "labels",
+      "value": {
+       "end": 303,
+       "start": 277,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "R2BLDOstoE",
+      "type": "choices",
+      "value": {
+       "end": 303,
+       "start": 277,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "pm97V7mSmu",
+      "type": "labels",
+      "value": {
+       "end": 456,
+       "start": 442,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "pm97V7mSmu",
+      "type": "choices",
+      "value": {
+       "end": 456,
+       "start": 442,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "cYPuAc1Qaw",
+      "type": "labels",
+      "value": {
+       "end": 498,
+       "start": 486,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "cYPuAc1Qaw",
+      "type": "choices",
+      "value": {
+       "end": 498,
+       "start": 486,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "SOZSk-x3Ec",
+      "type": "labels",
+      "value": {
+       "end": 1162,
+       "start": 1150,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "SOZSk-x3Ec",
+      "type": "choices",
+      "value": {
+       "end": 1162,
+       "start": 1150,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "k6SqI7XAfo",
+      "type": "labels",
+      "value": {
+       "end": 833,
+       "start": 817,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "k6SqI7XAfo",
+      "type": "choices",
+      "value": {
+       "end": 833,
+       "start": 817,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "gZuY9cW-1j",
+      "type": "labels",
+      "value": {
+       "end": 1366,
+       "start": 1324,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "gZuY9cW-1j",
+      "type": "choices",
+      "value": {
+       "end": 1366,
+       "start": 1324,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "_1S1m_T6Bn",
+      "type": "labels",
+      "value": {
+       "end": 1385,
+       "start": 1373,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "_1S1m_T6Bn",
+      "type": "choices",
+      "value": {
+       "end": 1385,
+       "start": 1373,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Jdfu4tH5bl",
+      "type": "labels",
+      "value": {
+       "end": 1418,
+       "start": 1407,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Jdfu4tH5bl",
+      "type": "choices",
+      "value": {
+       "end": 1418,
+       "start": 1407,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "H-W8Vvnbhu",
+      "type": "labels",
+      "value": {
+       "end": 1504,
+       "start": 1493,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "H-W8Vvnbhu",
+      "type": "choices",
+      "value": {
+       "end": 1504,
+       "start": 1493,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "Kx_lsVowqA",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "QIoMK9UdK6",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "QIoMK9UdK6",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "xl0rysUzFE",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "-_hZx5XZ7I",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "-YFTW71EHF",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "-_hZx5XZ7I",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "rwRY605hVj",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "-_hZx5XZ7I",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "sVKO5nethT",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "-_hZx5XZ7I",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "dSmEsuyi3M",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "R2BLDOstoE",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "-_hZx5XZ7I",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "SOZSk-x3Ec",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "k6SqI7XAfo",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "pm97V7mSmu",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "cYPuAc1Qaw",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "gZuY9cW-1j",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "_1S1m_T6Bn",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Jdfu4tH5bl",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "_1S1m_T6Bn",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-25T03:38:41.457663Z",
+    "updated_at": "2026-09-25T03:38:41.457691Z",
+    "draft_created_at": "2026-09-25T03:28:38.082452Z",
+    "lead_time": 618.185,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "b3fe7e61-944b-43d5-8d6c-646980321213",
+    "import_id": null,
+    "last_action": null,
+    "task": 370917,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335568
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.405432Z",
+  "updated_at": "2026-09-25T03:38:41.541870Z",
+  "inner_id": 3,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370918,
+  "annotations": [
+   {
+    "id": 148559,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "zvCNCkGCJI",
+      "type": "labels",
+      "value": {
+       "end": 220,
+       "start": 173,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "zvCNCkGCJI",
+      "type": "choices",
+      "value": {
+       "end": 220,
+       "start": 173,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "bFl-_u9wnp",
+      "type": "labels",
+      "value": {
+       "end": 149,
+       "start": 135,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "bFl-_u9wnp",
+      "type": "choices",
+      "value": {
+       "end": 149,
+       "start": 135,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "cghGeaJmF1",
+      "type": "labels",
+      "value": {
+       "end": 133,
+       "start": 113,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "cghGeaJmF1",
+      "type": "choices",
+      "value": {
+       "end": 133,
+       "start": 113,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "WY-EG_5Kw2",
+      "type": "labels",
+      "value": {
+       "end": 565,
+       "start": 555,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "WY-EG_5Kw2",
+      "type": "choices",
+      "value": {
+       "end": 565,
+       "start": 555,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "0EJ-HXhdnB",
+      "type": "labels",
+      "value": {
+       "end": 521,
+       "start": 503,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "0EJ-HXhdnB",
+      "type": "choices",
+      "value": {
+       "end": 521,
+       "start": 503,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "kf3Xqn080d",
+      "type": "labels",
+      "value": {
+       "end": 601,
+       "start": 583,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "kf3Xqn080d",
+      "type": "choices",
+      "value": {
+       "end": 601,
+       "start": 583,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "5KYs16G4Nv",
+      "type": "labels",
+      "value": {
+       "end": 655,
+       "start": 641,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "5KYs16G4Nv",
+      "type": "choices",
+      "value": {
+       "end": 655,
+       "start": 641,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Bh5YEA_N7z",
+      "type": "labels",
+      "value": {
+       "end": 708,
+       "start": 693,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Bh5YEA_N7z",
+      "type": "choices",
+      "value": {
+       "end": 708,
+       "start": 693,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "GDqsUDkyGu",
+      "type": "labels",
+      "value": {
+       "end": 1050,
+       "start": 1003,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "GDqsUDkyGu",
+      "type": "choices",
+      "value": {
+       "end": 1050,
+       "start": 1003,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ojdC0B3Bg2",
+      "type": "labels",
+      "value": {
+       "end": 1067,
+       "start": 1053,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ojdC0B3Bg2",
+      "type": "choices",
+      "value": {
+       "end": 1067,
+       "start": 1053,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "UoR9coh9Bh",
+      "type": "labels",
+      "value": {
+       "end": 1095,
+       "start": 1089,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "UoR9coh9Bh",
+      "type": "choices",
+      "value": {
+       "end": 1095,
+       "start": 1089,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "tMeUL3zUlL",
+      "type": "labels",
+      "value": {
+       "end": 1182,
+       "start": 1171,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "tMeUL3zUlL",
+      "type": "choices",
+      "value": {
+       "end": 1182,
+       "start": 1171,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "xcWJdtta1f",
+      "type": "labels",
+      "value": {
+       "end": 480,
+       "start": 456,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "xcWJdtta1f",
+      "type": "choices",
+      "value": {
+       "end": 480,
+       "start": 456,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "cghGeaJmF1",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "zvCNCkGCJI",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "zvCNCkGCJI",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "bFl-_u9wnp",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "WY-EG_5Kw2",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "0EJ-HXhdnB",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "WY-EG_5Kw2",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "kf3Xqn080d",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "WY-EG_5Kw2",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "5KYs16G4Nv",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "WY-EG_5Kw2",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "Bh5YEA_N7z",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "GDqsUDkyGu",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "ojdC0B3Bg2",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "UoR9coh9Bh",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "ojdC0B3Bg2",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "xcWJdtta1f",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "WY-EG_5Kw2",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-25T03:44:45.333311Z",
+    "updated_at": "2026-09-27T13:16:42.856050Z",
+    "draft_created_at": "2026-09-25T03:39:28.377473Z",
+    "lead_time": 266.483,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "b17cdd2a-62d2-414a-b269-15afc4d03a76",
+    "import_id": null,
+    "last_action": null,
+    "task": 370918,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335622
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.405561Z",
+  "updated_at": "2026-09-27T13:16:42.968206Z",
+  "inner_id": 4,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370919,
+  "annotations": [
+   {
+    "id": 148560,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "UQFfoH8506",
+      "type": "labels",
+      "value": {
+       "end": 819,
+       "start": 796,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "UQFfoH8506",
+      "type": "choices",
+      "value": {
+       "end": 819,
+       "start": 796,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "3YPl04aWTk",
+      "type": "labels",
+      "value": {
+       "end": 286,
+       "start": 274,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "3YPl04aWTk",
+      "type": "choices",
+      "value": {
+       "end": 286,
+       "start": 274,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ebON6XRpcR",
+      "type": "labels",
+      "value": {
+       "end": 1590,
+       "start": 1534,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ebON6XRpcR",
+      "type": "choices",
+      "value": {
+       "end": 1590,
+       "start": 1534,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "v9XWPtR-8n",
+      "type": "labels",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "v9XWPtR-8n",
+      "type": "choices",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "UQFfoH8506",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "3YPl04aWTk",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "ebON6XRpcR",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "3YPl04aWTk",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-25T03:52:57.225354Z",
+    "updated_at": "2026-09-25T03:53:40.035646Z",
+    "draft_created_at": "2026-09-25T03:51:35.463314Z",
+    "lead_time": 496.415,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "b6f8c5c0-9a25-4179-bd5b-3d483829346c",
+    "import_id": null,
+    "last_action": null,
+    "task": 370919,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335659
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.405687Z",
+  "updated_at": "2026-09-25T03:53:40.112717Z",
+  "inner_id": 5,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370920,
+  "annotations": [
+   {
+    "id": 148561,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "cnhO9gJZbS",
+      "type": "labels",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "cnhO9gJZbS",
+      "type": "choices",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "nQWpbwyloe",
+      "type": "labels",
+      "value": {
+       "end": 270,
+       "start": 252,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "nQWpbwyloe",
+      "type": "choices",
+      "value": {
+       "end": 270,
+       "start": 252,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "nQWpbwyloe",
+      "type": "choices",
+      "value": {
+       "end": 270,
+       "start": 252,
+       "choices": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "nQWpbwyloe",
+      "type": "choices",
+      "value": {
+       "end": 270,
+       "start": 252,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "type": "relation",
+      "to_id": "cnhO9gJZbS",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "nQWpbwyloe",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-25T03:55:25.557774Z",
+    "updated_at": "2026-09-27T13:18:31.565681Z",
+    "draft_created_at": "2026-09-25T03:54:16.026086Z",
+    "lead_time": 170.58100000000002,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "3735d08e-3a22-4f05-9fae-d89820952782",
+    "import_id": null,
+    "last_action": null,
+    "task": 370920,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [
+   {
+    "id": 84180,
+    "user": "elke.evrard@ugent.be",
+    "created_username": "elke.evrard@ugent.be, 1188",
+    "created_ago": "21 hours, 28 minutes",
+    "result": [
+     {
+      "id": "UQFfoH8506",
+      "type": "labels",
+      "value": {
+       "end": 819,
+       "start": 796,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "UQFfoH8506",
+      "type": "choices",
+      "value": {
+       "end": 819,
+       "start": 796,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "3YPl04aWTk",
+      "type": "labels",
+      "value": {
+       "end": 286,
+       "start": 274,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "3YPl04aWTk",
+      "type": "choices",
+      "value": {
+       "end": 286,
+       "start": 274,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ebON6XRpcR",
+      "type": "labels",
+      "value": {
+       "end": 1590,
+       "start": 1534,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ebON6XRpcR",
+      "type": "choices",
+      "value": {
+       "end": 1590,
+       "start": 1534,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "UQFfoH8506",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "3YPl04aWTk",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "ebON6XRpcR",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "3YPl04aWTk",
+      "direction": "right"
+     }
+    ],
+    "lead_time": 5.878,
+    "was_postponed": false,
+    "import_id": null,
+    "created_at": "2026-09-27T13:17:22.993116Z",
+    "updated_at": "2026-09-27T13:17:22.993142Z",
+    "task": 370920,
+    "annotation": 148560
+   }
+  ],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335653
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.405814Z",
+  "updated_at": "2026-09-27T13:18:31.672005Z",
+  "inner_id": 6,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370921,
+  "annotations": [
+   {
+    "id": 148562,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "rPkzEYOYZt",
+      "type": "labels",
+      "value": {
+       "end": 221,
+       "start": 179,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "rPkzEYOYZt",
+      "type": "choices",
+      "value": {
+       "end": 221,
+       "start": 179,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "zXtjQIKHb5",
+      "type": "labels",
+      "value": {
+       "end": 604,
+       "start": 579,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "zXtjQIKHb5",
+      "type": "choices",
+      "value": {
+       "end": 604,
+       "start": 579,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "u4n4qXgK8d",
+      "type": "labels",
+      "value": {
+       "end": 639,
+       "start": 629,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "u4n4qXgK8d",
+      "type": "choices",
+      "value": {
+       "end": 639,
+       "start": 629,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "MgzPCm-BI0",
+      "type": "labels",
+      "value": {
+       "end": 134,
+       "start": 116,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "MgzPCm-BI0",
+      "type": "choices",
+      "value": {
+       "end": 134,
+       "start": 116,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "gifrPzsRBe",
+      "type": "labels",
+      "value": {
+       "end": 152,
+       "start": 140,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "gifrPzsRBe",
+      "type": "choices",
+      "value": {
+       "end": 152,
+       "start": 140,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "L7EnmZ1LBF",
+      "type": "labels",
+      "value": {
+       "end": 673,
+       "start": 666,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "L7EnmZ1LBF",
+      "type": "choices",
+      "value": {
+       "end": 673,
+       "start": 666,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "zHHrpZM3BF",
+      "type": "labels",
+      "value": {
+       "end": 713,
+       "start": 701,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "zHHrpZM3BF",
+      "type": "choices",
+      "value": {
+       "end": 713,
+       "start": 701,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "SJLuuwG5sM",
+      "type": "labels",
+      "value": {
+       "end": 743,
+       "start": 725,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "SJLuuwG5sM",
+      "type": "choices",
+      "value": {
+       "end": 743,
+       "start": 725,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "EYRzchf3oC",
+      "type": "labels",
+      "value": {
+       "end": 855,
+       "start": 840,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "EYRzchf3oC",
+      "type": "choices",
+      "value": {
+       "end": 855,
+       "start": 840,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "QpEpO5D6w8",
+      "type": "labels",
+      "value": {
+       "end": 921,
+       "start": 906,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "QpEpO5D6w8",
+      "type": "choices",
+      "value": {
+       "end": 921,
+       "start": 906,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "U7K5rpOlu-",
+      "type": "labels",
+      "value": {
+       "end": 966,
+       "start": 942,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "U7K5rpOlu-",
+      "type": "choices",
+      "value": {
+       "end": 966,
+       "start": 942,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "U7K5rpOlu-",
+      "type": "choices",
+      "value": {
+       "end": 966,
+       "start": 942,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "U7K5rpOlu-",
+      "type": "choices",
+      "value": {
+       "end": 966,
+       "start": 942,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "9GBvql8Ux0",
+      "type": "labels",
+      "value": {
+       "end": 982,
+       "start": 967,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "9GBvql8Ux0",
+      "type": "choices",
+      "value": {
+       "end": 982,
+       "start": 967,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "DritEAezq6",
+      "type": "labels",
+      "value": {
+       "end": 1097,
+       "start": 1009,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "DritEAezq6",
+      "type": "choices",
+      "value": {
+       "end": 1097,
+       "start": 1009,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "qYXEzjCAxc",
+      "type": "labels",
+      "value": {
+       "end": 1184,
+       "start": 1142,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "qYXEzjCAxc",
+      "type": "choices",
+      "value": {
+       "end": 1184,
+       "start": 1142,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "rCf9q8Hhak",
+      "type": "labels",
+      "value": {
+       "end": 1203,
+       "start": 1191,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "rCf9q8Hhak",
+      "type": "choices",
+      "value": {
+       "end": 1203,
+       "start": 1191,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "2xWZeSJr_-",
+      "type": "labels",
+      "value": {
+       "end": 1236,
+       "start": 1225,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "2xWZeSJr_-",
+      "type": "choices",
+      "value": {
+       "end": 1236,
+       "start": 1225,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "rPkzEYOYZt",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "gifrPzsRBe",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "MgzPCm-BI0",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "rPkzEYOYZt",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "zXtjQIKHb5",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "u4n4qXgK8d",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "u4n4qXgK8d",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "QpEpO5D6w8",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "u4n4qXgK8d",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "L7EnmZ1LBF",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "u4n4qXgK8d",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "zHHrpZM3BF",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "u4n4qXgK8d",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "SJLuuwG5sM",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "u4n4qXgK8d",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "EYRzchf3oC",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "U7K5rpOlu-",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "DritEAezq6",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "DritEAezq6",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "9GBvql8Ux0",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "qYXEzjCAxc",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "rCf9q8Hhak",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "2xWZeSJr_-",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "rCf9q8Hhak",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-25T04:00:47.552021Z",
+    "updated_at": "2026-09-25T04:01:01.230622Z",
+    "draft_created_at": "2026-09-25T03:55:51.347293Z",
+    "lead_time": 324.30999999999995,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "df929a38-266f-42ac-8e7f-8230a0785a48",
+    "import_id": null,
+    "last_action": null,
+    "task": 370921,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335663
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.405945Z",
+  "updated_at": "2026-09-25T04:01:01.346472Z",
+  "inner_id": 7,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370922,
+  "annotations": [
+   {
+    "id": 148563,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "Etqq33LNwD",
+      "type": "labels",
+      "value": {
+       "end": 228,
+       "start": 206,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Etqq33LNwD",
+      "type": "choices",
+      "value": {
+       "end": 228,
+       "start": 206,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "G9aEZ5nlkm",
+      "type": "labels",
+      "value": {
+       "end": 353,
+       "start": 322,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "G9aEZ5nlkm",
+      "type": "choices",
+      "value": {
+       "end": 353,
+       "start": 322,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "defuzbVW-c",
+      "type": "labels",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "defuzbVW-c",
+      "type": "choices",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "Etqq33LNwD",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "G9aEZ5nlkm",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-25T04:03:17.880932Z",
+    "updated_at": "2026-09-25T04:03:17.880958Z",
+    "draft_created_at": "2026-09-25T04:02:21.914556Z",
+    "lead_time": 131.444,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "9bd6ff3a-cb23-4ffb-8955-fd5237a1fe67",
+    "import_id": null,
+    "last_action": null,
+    "task": 370922,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335567
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.406083Z",
+  "updated_at": "2026-09-25T04:03:17.958160Z",
+  "inner_id": 8,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370923,
+  "annotations": [
+   {
+    "id": 148564,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "bGh8kyV9fm",
+      "type": "labels",
+      "value": {
+       "end": 108,
+       "start": 88,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "bGh8kyV9fm",
+      "type": "choices",
+      "value": {
+       "end": 108,
+       "start": 88,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "LWw127jC3s",
+      "type": "labels",
+      "value": {
+       "end": 194,
+       "start": 147,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "LWw127jC3s",
+      "type": "choices",
+      "value": {
+       "end": 194,
+       "start": 147,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ZAEwW2OkuW",
+      "type": "labels",
+      "value": {
+       "end": 123,
+       "start": 109,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ZAEwW2OkuW",
+      "type": "choices",
+      "value": {
+       "end": 123,
+       "start": 109,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "8DPu0dZjcB",
+      "type": "labels",
+      "value": {
+       "end": 291,
+       "start": 267,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "8DPu0dZjcB",
+      "type": "choices",
+      "value": {
+       "end": 291,
+       "start": 267,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "a4t8Jw86IS",
+      "type": "labels",
+      "value": {
+       "end": 312,
+       "start": 300,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "a4t8Jw86IS",
+      "type": "choices",
+      "value": {
+       "end": 312,
+       "start": 300,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "NX_1_F3RMn",
+      "type": "labels",
+      "value": {
+       "end": 364,
+       "start": 343,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "NX_1_F3RMn",
+      "type": "choices",
+      "value": {
+       "end": 364,
+       "start": 343,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "HER2OEqGYF",
+      "type": "labels",
+      "value": {
+       "end": 377,
+       "start": 368,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "HER2OEqGYF",
+      "type": "choices",
+      "value": {
+       "end": 377,
+       "start": 368,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "5EsVmlJ2W1",
+      "type": "labels",
+      "value": {
+       "end": 411,
+       "start": 399,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "5EsVmlJ2W1",
+      "type": "choices",
+      "value": {
+       "end": 411,
+       "start": 399,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "V8f9ISGb2S",
+      "type": "labels",
+      "value": {
+       "end": 431,
+       "start": 415,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "V8f9ISGb2S",
+      "type": "choices",
+      "value": {
+       "end": 431,
+       "start": 415,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "wlOQzaBQhW",
+      "type": "labels",
+      "value": {
+       "end": 393,
+       "start": 379,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "wlOQzaBQhW",
+      "type": "choices",
+      "value": {
+       "end": 393,
+       "start": 379,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "B-uCoNC7nd",
+      "type": "labels",
+      "value": {
+       "end": 1236,
+       "start": 1223,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "B-uCoNC7nd",
+      "type": "choices",
+      "value": {
+       "end": 1236,
+       "start": 1223,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "gkSKgEmBGr",
+      "type": "labels",
+      "value": {
+       "end": 448,
+       "start": 434,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "gkSKgEmBGr",
+      "type": "choices",
+      "value": {
+       "end": 448,
+       "start": 434,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "BFfQkPWnv1",
+      "type": "labels",
+      "value": {
+       "end": 491,
+       "start": 479,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "BFfQkPWnv1",
+      "type": "choices",
+      "value": {
+       "end": 491,
+       "start": 479,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "JemM7TYoWB",
+      "type": "labels",
+      "value": {
+       "end": 877,
+       "start": 861,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "JemM7TYoWB",
+      "type": "choices",
+      "value": {
+       "end": 877,
+       "start": 861,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Fgt22tQd4z",
+      "type": "labels",
+      "value": {
+       "end": 1460,
+       "start": 1413,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Fgt22tQd4z",
+      "type": "choices",
+      "value": {
+       "end": 1460,
+       "start": 1413,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "sKFtYRNwsO",
+      "type": "labels",
+      "value": {
+       "end": 1477,
+       "start": 1463,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "sKFtYRNwsO",
+      "type": "choices",
+      "value": {
+       "end": 1477,
+       "start": 1463,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "k7k5FPavmW",
+      "type": "labels",
+      "value": {
+       "end": 1505,
+       "start": 1499,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "k7k5FPavmW",
+      "type": "choices",
+      "value": {
+       "end": 1505,
+       "start": 1499,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "k7k5FPavmW",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "sKFtYRNwsO",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Fgt22tQd4z",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "sKFtYRNwsO",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "B-uCoNC7nd",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "JemM7TYoWB",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "gkSKgEmBGr",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "BFfQkPWnv1",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "LWw127jC3s",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "ZAEwW2OkuW",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "bGh8kyV9fm",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "LWw127jC3s",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "8DPu0dZjcB",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "wlOQzaBQhW",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "wlOQzaBQhW",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "a4t8Jw86IS",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "wlOQzaBQhW",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "NX_1_F3RMn",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "wlOQzaBQhW",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "5EsVmlJ2W1",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "wlOQzaBQhW",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "V8f9ISGb2S",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-25T04:11:23.270596Z",
+    "updated_at": "2026-09-25T04:11:23.270620Z",
+    "draft_created_at": "2026-09-25T04:04:52.040904Z",
+    "lead_time": 481.509,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "1f79c3da-e9fa-4b94-8d54-ddba5ebdbeb7",
+    "import_id": null,
+    "last_action": null,
+    "task": 370923,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335642
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.406209Z",
+  "updated_at": "2026-09-25T04:11:23.354236Z",
+  "inner_id": 9,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370924,
+  "annotations": [
+   {
+    "id": 148807,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "ZZAK5Vum0h",
+      "type": "labels",
+      "value": {
+       "end": 396,
+       "start": 344,
+       "labels": [
+        "Provenance research"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ZZAK5Vum0h",
+      "type": "choices",
+      "value": {
+       "end": 396,
+       "start": 344,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ZZAK5Vum0h",
+      "type": "choices",
+      "value": {
+       "end": 396,
+       "start": 344,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "ZZAK5Vum0h",
+      "type": "choices",
+      "value": {
+       "end": 396,
+       "start": 344,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "RvL8jbpHQ3",
+      "type": "labels",
+      "value": {
+       "end": 255,
+       "start": 244,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "RvL8jbpHQ3",
+      "type": "choices",
+      "value": {
+       "end": 255,
+       "start": 244,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Ver-Z-1lhK",
+      "type": "labels",
+      "value": {
+       "end": 271,
+       "start": 257,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Ver-Z-1lhK",
+      "type": "choices",
+      "value": {
+       "end": 271,
+       "start": 257,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "U8-HkCkhMd",
+      "type": "labels",
+      "value": {
+       "end": 671,
+       "start": 661,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "U8-HkCkhMd",
+      "type": "choices",
+      "value": {
+       "end": 671,
+       "start": 661,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "y_-_2meNdz",
+      "type": "labels",
+      "value": {
+       "end": 699,
+       "start": 681,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "y_-_2meNdz",
+      "type": "choices",
+      "value": {
+       "end": 699,
+       "start": 681,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "pZhU5kx20e",
+      "type": "labels",
+      "value": {
+       "end": 768,
+       "start": 754,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "pZhU5kx20e",
+      "type": "choices",
+      "value": {
+       "end": 768,
+       "start": 754,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "R7-1u5C1of",
+      "type": "labels",
+      "value": {
+       "end": 1362,
+       "start": 1342,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "R7-1u5C1of",
+      "type": "choices",
+      "value": {
+       "end": 1362,
+       "start": 1342,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "TxwS5u-T_F",
+      "type": "labels",
+      "value": {
+       "end": 1399,
+       "start": 1379,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "TxwS5u-T_F",
+      "type": "choices",
+      "value": {
+       "end": 1399,
+       "start": 1379,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "AMOjGkQ866",
+      "type": "labels",
+      "value": {
+       "end": 1457,
+       "start": 1417,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "AMOjGkQ866",
+      "type": "choices",
+      "value": {
+       "end": 1457,
+       "start": 1417,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "1uCcsOPHuJ",
+      "type": "labels",
+      "value": {
+       "end": 1817,
+       "start": 1807,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "1uCcsOPHuJ",
+      "type": "choices",
+      "value": {
+       "end": 1817,
+       "start": 1807,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "cSpFIBPu9s",
+      "type": "labels",
+      "value": {
+       "end": 1837,
+       "start": 1819,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "cSpFIBPu9s",
+      "type": "choices",
+      "value": {
+       "end": 1837,
+       "start": 1819,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "buKAVRAWmQ",
+      "type": "labels",
+      "value": {
+       "end": 1932,
+       "start": 1919,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "buKAVRAWmQ",
+      "type": "choices",
+      "value": {
+       "end": 1932,
+       "start": 1919,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Qjcg_byzuF",
+      "type": "labels",
+      "value": {
+       "end": 2000,
+       "start": 1985,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Qjcg_byzuF",
+      "type": "choices",
+      "value": {
+       "end": 2000,
+       "start": 1985,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "j82kLJ14ak",
+      "type": "labels",
+      "value": {
+       "end": 2088,
+       "start": 2076,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "j82kLJ14ak",
+      "type": "choices",
+      "value": {
+       "end": 2088,
+       "start": 2076,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-Ym4TgdGLM",
+      "type": "labels",
+      "value": {
+       "end": 2130,
+       "start": 2115,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-Ym4TgdGLM",
+      "type": "choices",
+      "value": {
+       "end": 2130,
+       "start": 2115,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "gY5a4MYsl4",
+      "type": "labels",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "gY5a4MYsl4",
+      "type": "choices",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "ZZAK5Vum0h",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "Ver-Z-1lhK",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "RvL8jbpHQ3",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "ZZAK5Vum0h",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "y_-_2meNdz",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "U8-HkCkhMd",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "y_-_2meNdz",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "pZhU5kx20e",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "ZZAK5Vum0h",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "R7-1u5C1of",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "ZZAK5Vum0h",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "TxwS5u-T_F",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "ZZAK5Vum0h",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "AMOjGkQ866",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "gY5a4MYsl4",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "1uCcsOPHuJ",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "1uCcsOPHuJ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "cSpFIBPu9s",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "1uCcsOPHuJ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "buKAVRAWmQ",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "1uCcsOPHuJ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "Qjcg_byzuF",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "1uCcsOPHuJ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "j82kLJ14ak",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "1uCcsOPHuJ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "-Ym4TgdGLM",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-27T13:03:36.365310Z",
+    "updated_at": "2026-09-27T13:14:08.161193Z",
+    "draft_created_at": "2026-09-27T12:53:38.051583Z",
+    "lead_time": 511.311,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "304789c9-b529-4ea5-b602-28a7d1bb87be",
+    "import_id": null,
+    "last_action": null,
+    "task": 370924,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335550
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.406355Z",
+  "updated_at": "2026-09-27T13:14:08.259889Z",
+  "inner_id": 10,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370925,
+  "annotations": [
+   {
+    "id": 148809,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "3BceKsjHhX",
+      "type": "labels",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "3BceKsjHhX",
+      "type": "choices",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ozlsmDvcqM",
+      "type": "labels",
+      "value": {
+       "end": 521,
+       "start": 501,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ozlsmDvcqM",
+      "type": "choices",
+      "value": {
+       "end": 521,
+       "start": 501,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "psR0k9m2YM",
+      "type": "labels",
+      "value": {
+       "end": 615,
+       "start": 594,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "psR0k9m2YM",
+      "type": "choices",
+      "value": {
+       "end": 615,
+       "start": 594,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "psR0k9m2YM",
+      "type": "choices",
+      "value": {
+       "end": 615,
+       "start": 594,
+       "choices": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "psR0k9m2YM",
+      "type": "choices",
+      "value": {
+       "end": 615,
+       "start": 594,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "G0cKR8MUJy",
+      "type": "labels",
+      "value": {
+       "end": 682,
+       "start": 663,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "G0cKR8MUJy",
+      "type": "choices",
+      "value": {
+       "end": 682,
+       "start": 663,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "3BceKsjHhX",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "ozlsmDvcqM",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "3BceKsjHhX",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "psR0k9m2YM",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "3BceKsjHhX",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "G0cKR8MUJy",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-27T13:09:12.284062Z",
+    "updated_at": "2026-09-27T13:19:34.634315Z",
+    "draft_created_at": "2026-09-27T13:07:54.965217Z",
+    "lead_time": 365.072,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "f6f9fc35-a5bc-442d-80c5-f56b3871a5d8",
+    "import_id": null,
+    "last_action": null,
+    "task": 370925,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [
+   {
+    "id": 84178,
+    "user": "elke.evrard@ugent.be",
+    "created_username": "elke.evrard@ugent.be, 1188",
+    "created_ago": "21 hours, 33 minutes",
+    "result": [
+     {
+      "id": "KSJ6PTR5zy",
+      "type": "labels",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     }
+    ],
+    "lead_time": 175.063,
+    "was_postponed": false,
+    "import_id": null,
+    "created_at": "2026-09-27T13:12:10.995447Z",
+    "updated_at": "2026-09-27T13:12:10.995473Z",
+    "task": 370925,
+    "annotation": null
+   }
+  ],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335570
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.406483Z",
+  "updated_at": "2026-09-27T13:19:34.723742Z",
+  "inner_id": 11,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370926,
+  "annotations": [
+   {
+    "id": 148885,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "eBHFbIBoC3",
+      "type": "labels",
+      "value": {
+       "end": 192,
+       "start": 150,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "eBHFbIBoC3",
+      "type": "choices",
+      "value": {
+       "end": 192,
+       "start": 150,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "kLx_Fo9QCT",
+      "type": "labels",
+      "value": {
+       "end": 209,
+       "start": 197,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "kLx_Fo9QCT",
+      "type": "choices",
+      "value": {
+       "end": 209,
+       "start": 197,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "toBpDWB-1p",
+      "type": "labels",
+      "value": {
+       "end": 239,
+       "start": 223,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "toBpDWB-1p",
+      "type": "choices",
+      "value": {
+       "end": 239,
+       "start": 223,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "IgH3XfKZi2",
+      "type": "labels",
+      "value": {
+       "end": 309,
+       "start": 274,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "IgH3XfKZi2",
+      "type": "choices",
+      "value": {
+       "end": 309,
+       "start": 274,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "mmq0P5W_nd",
+      "type": "labels",
+      "value": {
+       "end": 346,
+       "start": 330,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "mmq0P5W_nd",
+      "type": "choices",
+      "value": {
+       "end": 346,
+       "start": 330,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "H_jC-P1zSD",
+      "type": "labels",
+      "value": {
+       "end": 372,
+       "start": 351,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "H_jC-P1zSD",
+      "type": "choices",
+      "value": {
+       "end": 372,
+       "start": 351,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "H9O0RT_953",
+      "type": "labels",
+      "value": {
+       "end": 400,
+       "start": 388,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "H9O0RT_953",
+      "type": "choices",
+      "value": {
+       "end": 400,
+       "start": 388,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "AZh7UJ24SF",
+      "type": "labels",
+      "value": {
+       "end": 471,
+       "start": 467,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "AZh7UJ24SF",
+      "type": "choices",
+      "value": {
+       "end": 471,
+       "start": 467,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "lxqjLsQLMI",
+      "type": "labels",
+      "value": {
+       "end": 448,
+       "start": 435,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "lxqjLsQLMI",
+      "type": "choices",
+      "value": {
+       "end": 448,
+       "start": 435,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "oocSCPjxec",
+      "type": "labels",
+      "value": {
+       "end": 1103,
+       "start": 1068,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "oocSCPjxec",
+      "type": "choices",
+      "value": {
+       "end": 1103,
+       "start": 1068,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "VenFnjfRIm",
+      "type": "labels",
+      "value": {
+       "end": 1378,
+       "start": 1336,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "VenFnjfRIm",
+      "type": "choices",
+      "value": {
+       "end": 1378,
+       "start": 1336,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-oHX6AC_OR",
+      "type": "labels",
+      "value": {
+       "end": 1397,
+       "start": 1385,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-oHX6AC_OR",
+      "type": "choices",
+      "value": {
+       "end": 1397,
+       "start": 1385,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "aIjDfyC2XS",
+      "type": "labels",
+      "value": {
+       "end": 1430,
+       "start": 1419,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "aIjDfyC2XS",
+      "type": "choices",
+      "value": {
+       "end": 1430,
+       "start": 1419,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "eBHFbIBoC3",
+      "from_id": "kLx_Fo9QCT",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "IgH3XfKZi2",
+      "from_id": "kLx_Fo9QCT",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "IgH3XfKZi2",
+      "from_id": "mmq0P5W_nd",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "IgH3XfKZi2",
+      "from_id": "H_jC-P1zSD",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "IgH3XfKZi2",
+      "from_id": "H9O0RT_953",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "AZh7UJ24SF",
+      "from_id": "mmq0P5W_nd",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "AZh7UJ24SF",
+      "from_id": "H_jC-P1zSD",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "AZh7UJ24SF",
+      "from_id": "H9O0RT_953",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "AZh7UJ24SF",
+      "from_id": "lxqjLsQLMI",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "toBpDWB-1p",
+      "from_id": "IgH3XfKZi2",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "toBpDWB-1p",
+      "from_id": "AZh7UJ24SF",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-28T02:01:33.192077Z",
+    "updated_at": "2026-09-28T02:01:33.192102Z",
+    "draft_created_at": "2026-09-27T13:19:55.180061Z",
+    "lead_time": 213.12,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "42bc1250-15bc-4185-9d1b-c65bae8276f7",
+    "import_id": null,
+    "last_action": null,
+    "task": 370926,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335638
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.406608Z",
+  "updated_at": "2026-09-28T02:01:33.258431Z",
+  "inner_id": 12,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370927,
+  "annotations": [
+   {
+    "id": 148886,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "R_Ub6veQ9h",
+      "type": "labels",
+      "value": {
+       "end": 2056,
+       "start": 2012,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "R_Ub6veQ9h",
+      "type": "choices",
+      "value": {
+       "end": 2056,
+       "start": 2012,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "N0635UMNWC",
+      "type": "labels",
+      "value": {
+       "end": 2156,
+       "start": 2070,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "N0635UMNWC",
+      "type": "choices",
+      "value": {
+       "end": 2156,
+       "start": 2070,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "00MehFZjM0",
+      "type": "labels",
+      "value": {
+       "end": 2243,
+       "start": 2170,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "00MehFZjM0",
+      "type": "choices",
+      "value": {
+       "end": 2243,
+       "start": 2170,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "AoNey_C4ur",
+      "type": "labels",
+      "value": {
+       "end": 2386,
+       "start": 2297,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "AoNey_C4ur",
+      "type": "choices",
+      "value": {
+       "end": 2386,
+       "start": 2297,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "RSC4zfwHat",
+      "type": "labels",
+      "value": {
+       "end": 2497,
+       "start": 2435,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "RSC4zfwHat",
+      "type": "choices",
+      "value": {
+       "end": 2497,
+       "start": 2435,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ZPeplMjOhl",
+      "type": "labels",
+      "value": {
+       "end": 2064,
+       "start": 2060,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ZPeplMjOhl",
+      "type": "choices",
+      "value": {
+       "end": 2064,
+       "start": 2060,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "yCYkaOy_H1",
+      "type": "labels",
+      "value": {
+       "end": 2164,
+       "start": 2160,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "yCYkaOy_H1",
+      "type": "choices",
+      "value": {
+       "end": 2164,
+       "start": 2160,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "s--J6P4UDW",
+      "type": "labels",
+      "value": {
+       "end": 2251,
+       "start": 2247,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "s--J6P4UDW",
+      "type": "choices",
+      "value": {
+       "end": 2251,
+       "start": 2247,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "SNxFHecqJD",
+      "type": "labels",
+      "value": {
+       "end": 2394,
+       "start": 2390,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "SNxFHecqJD",
+      "type": "choices",
+      "value": {
+       "end": 2394,
+       "start": 2390,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "9h1id-LBmf",
+      "type": "labels",
+      "value": {
+       "end": 2507,
+       "start": 2503,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "9h1id-LBmf",
+      "type": "choices",
+      "value": {
+       "end": 2507,
+       "start": 2503,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "crKdZhHq-j",
+      "type": "labels",
+      "value": {
+       "end": 52,
+       "start": 23,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "crKdZhHq-j",
+      "type": "choices",
+      "value": {
+       "end": 52,
+       "start": 23,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "5GobN5gdFY",
+      "type": "labels",
+      "value": {
+       "end": 2262,
+       "start": 2253,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "5GobN5gdFY",
+      "type": "choices",
+      "value": {
+       "end": 2262,
+       "start": 2253,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "R_Ub6veQ9h",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "crKdZhHq-j",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "N0635UMNWC",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "crKdZhHq-j",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "00MehFZjM0",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "crKdZhHq-j",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "AoNey_C4ur",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "crKdZhHq-j",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "RSC4zfwHat",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "crKdZhHq-j",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "ZPeplMjOhl",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "R_Ub6veQ9h",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "yCYkaOy_H1",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "N0635UMNWC",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "s--J6P4UDW",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "00MehFZjM0",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "SNxFHecqJD",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "AoNey_C4ur",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "9h1id-LBmf",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "RSC4zfwHat",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-28T02:07:07.291332Z",
+    "updated_at": "2026-09-28T02:07:07.291359Z",
+    "draft_created_at": "2026-09-28T02:03:37.515108Z",
+    "lead_time": 329.156,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "12815215-69e3-4692-b7cb-33ed2f566c7b",
+    "import_id": null,
+    "last_action": null,
+    "task": 370927,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335345
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.406733Z",
+  "updated_at": "2026-09-28T02:07:07.372010Z",
+  "inner_id": 13,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370928,
+  "annotations": [
+   {
+    "id": 148887,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "vxbrur38Jo",
+      "type": "labels",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "vxbrur38Jo",
+      "type": "choices",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "D50PCOZO1I",
+      "type": "labels",
+      "value": {
+       "end": 50,
+       "start": 32,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "D50PCOZO1I",
+      "type": "choices",
+      "value": {
+       "end": 50,
+       "start": 32,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ZNOehi81mi",
+      "type": "labels",
+      "value": {
+       "end": 161,
+       "start": 153,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ZNOehi81mi",
+      "type": "choices",
+      "value": {
+       "end": 161,
+       "start": 153,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ZNOehi81mi",
+      "type": "choices",
+      "value": {
+       "end": 161,
+       "start": 153,
+       "choices": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "ZNOehi81mi",
+      "type": "choices",
+      "value": {
+       "end": 161,
+       "start": 153,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "b00_LDtdl0",
+      "type": "labels",
+      "value": {
+       "end": 119,
+       "start": 93,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "b00_LDtdl0",
+      "type": "choices",
+      "value": {
+       "end": 119,
+       "start": 93,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "UTho27h2LC",
+      "type": "labels",
+      "value": {
+       "end": 174,
+       "start": 163,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "UTho27h2LC",
+      "type": "choices",
+      "value": {
+       "end": 174,
+       "start": 163,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "UKtEuEHXQU",
+      "type": "labels",
+      "value": {
+       "end": 519,
+       "start": 500,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "UKtEuEHXQU",
+      "type": "choices",
+      "value": {
+       "end": 519,
+       "start": 500,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "UKtEuEHXQU",
+      "type": "choices",
+      "value": {
+       "end": 519,
+       "start": 500,
+       "choices": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "UKtEuEHXQU",
+      "type": "choices",
+      "value": {
+       "end": 519,
+       "start": 500,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "Wxpn7M-VTJ",
+      "type": "labels",
+      "value": {
+       "end": 854,
+       "start": 820,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Wxpn7M-VTJ",
+      "type": "choices",
+      "value": {
+       "end": 854,
+       "start": 820,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Wxpn7M-VTJ",
+      "type": "choices",
+      "value": {
+       "end": 854,
+       "start": 820,
+       "choices": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "Wxpn7M-VTJ",
+      "type": "choices",
+      "value": {
+       "end": 854,
+       "start": 820,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "oGVmxVxyg5",
+      "type": "labels",
+      "value": {
+       "end": 1426,
+       "start": 1379,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "oGVmxVxyg5",
+      "type": "choices",
+      "value": {
+       "end": 1426,
+       "start": 1379,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "J-eGpCFK46",
+      "type": "labels",
+      "value": {
+       "end": 1470,
+       "start": 1452,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "J-eGpCFK46",
+      "type": "choices",
+      "value": {
+       "end": 1470,
+       "start": 1452,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "R1I_ZIOR5D",
+      "type": "labels",
+      "value": {
+       "end": 1326,
+       "start": 1316,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "R1I_ZIOR5D",
+      "type": "choices",
+      "value": {
+       "end": 1326,
+       "start": 1316,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Ek61EIrXyz",
+      "type": "labels",
+      "value": {
+       "end": 1370,
+       "start": 1361,
+       "labels": [
+        "Time_vague"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Ek61EIrXyz",
+      "type": "choices",
+      "value": {
+       "end": 1370,
+       "start": 1361,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "bpldto-jnZ",
+      "type": "labels",
+      "value": {
+       "end": 1782,
+       "start": 1771,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "bpldto-jnZ",
+      "type": "choices",
+      "value": {
+       "end": 1782,
+       "start": 1771,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "8OHKXmes4h",
+      "type": "labels",
+      "value": {
+       "end": 2782,
+       "start": 2762,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "8OHKXmes4h",
+      "type": "choices",
+      "value": {
+       "end": 2782,
+       "start": 2762,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Cv6KWozcw2",
+      "type": "labels",
+      "value": {
+       "end": 2410,
+       "start": 2400,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Cv6KWozcw2",
+      "type": "choices",
+      "value": {
+       "end": 2410,
+       "start": 2400,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "mkB8TECI1O",
+      "type": "labels",
+      "value": {
+       "end": 2213,
+       "start": 2196,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "mkB8TECI1O",
+      "type": "choices",
+      "value": {
+       "end": 2213,
+       "start": 2196,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "7c09x_9UOb",
+      "type": "labels",
+      "value": {
+       "end": 1982,
+       "start": 1965,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "7c09x_9UOb",
+      "type": "choices",
+      "value": {
+       "end": 1982,
+       "start": 1965,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "1r-l3hadSu",
+      "type": "labels",
+      "value": {
+       "end": 2520,
+       "start": 2473,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "1r-l3hadSu",
+      "type": "choices",
+      "value": {
+       "end": 2520,
+       "start": 2473,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "oGVmxVxyg5",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "J-eGpCFK46",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "oGVmxVxyg5",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "R1I_ZIOR5D",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Ek61EIrXyz",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "oGVmxVxyg5",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "1r-l3hadSu",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "Cv6KWozcw2",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "bpldto-jnZ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "Cv6KWozcw2",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "bpldto-jnZ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "7c09x_9UOb",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "bpldto-jnZ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "mkB8TECI1O",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "bpldto-jnZ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "8OHKXmes4h",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "D50PCOZO1I",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "ZNOehi81mi",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "D50PCOZO1I",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "UKtEuEHXQU",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "D50PCOZO1I",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "Wxpn7M-VTJ",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "ZNOehi81mi",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "b00_LDtdl0",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "UTho27h2LC",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "b00_LDtdl0",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "UKtEuEHXQU",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "b00_LDtdl0",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Wxpn7M-VTJ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "b00_LDtdl0",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "D50PCOZO1I",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "UTho27h2LC",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-28T02:18:13.338977Z",
+    "updated_at": "2026-09-28T02:18:13.339009Z",
+    "draft_created_at": "2026-09-28T02:07:55.972754Z",
+    "lead_time": 660.483,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "0de04a77-fae5-48d9-91f4-f0c8262b1e7f",
+    "import_id": null,
+    "last_action": null,
+    "task": 370928,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335340
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.406857Z",
+  "updated_at": "2026-09-28T02:18:13.426641Z",
+  "inner_id": 14,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370929,
+  "annotations": [
+   {
+    "id": 148888,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "YhBd1vpNjg",
+      "type": "labels",
+      "value": {
+       "end": 239,
+       "start": 221,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "YhBd1vpNjg",
+      "type": "choices",
+      "value": {
+       "end": 239,
+       "start": 221,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "4YxtjtXmQH",
+      "type": "labels",
+      "value": {
+       "end": 253,
+       "start": 241,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "4YxtjtXmQH",
+      "type": "choices",
+      "value": {
+       "end": 253,
+       "start": 241,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "DBIdz2Ip6j",
+      "type": "labels",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "DBIdz2Ip6j",
+      "type": "choices",
+      "value": {
+       "end": 27,
+       "start": 17,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "9Ni3gjqdC1",
+      "type": "labels",
+      "value": {
+       "end": 911,
+       "start": 894,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "9Ni3gjqdC1",
+      "type": "choices",
+      "value": {
+       "end": 911,
+       "start": 894,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "RntU_8s5w4",
+      "type": "labels",
+      "value": {
+       "end": 1713,
+       "start": 1699,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "RntU_8s5w4",
+      "type": "choices",
+      "value": {
+       "end": 1713,
+       "start": 1699,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "tfCovEX4Sl",
+      "type": "labels",
+      "value": {
+       "end": 1506,
+       "start": 1494,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "tfCovEX4Sl",
+      "type": "choices",
+      "value": {
+       "end": 1506,
+       "start": 1494,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "DBIdz2Ip6j",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "YhBd1vpNjg",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "YhBd1vpNjg",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "4YxtjtXmQH",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "9Ni3gjqdC1",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "tfCovEX4Sl",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "9Ni3gjqdC1",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "RntU_8s5w4",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-28T02:20:45.469136Z",
+    "updated_at": "2026-09-28T02:20:45.469161Z",
+    "draft_created_at": "2026-09-28T02:19:00.932056Z",
+    "lead_time": 148.169,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "e109489e-eeaf-47ac-aa58-8e41914e41d5",
+    "import_id": null,
+    "last_action": null,
+    "task": 370929,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335562
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.406982Z",
+  "updated_at": "2026-09-28T02:20:45.545737Z",
+  "inner_id": 15,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370930,
+  "annotations": [
+   {
+    "id": 148889,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "Ki-T8EEld7",
+      "type": "labels",
+      "value": {
+       "end": 211,
+       "start": 169,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Ki-T8EEld7",
+      "type": "choices",
+      "value": {
+       "end": 211,
+       "start": 169,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "qXtZsjdzcu",
+      "type": "labels",
+      "value": {
+       "end": 129,
+       "start": 111,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "qXtZsjdzcu",
+      "type": "choices",
+      "value": {
+       "end": 129,
+       "start": 111,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "WZJE9WdwL8",
+      "type": "labels",
+      "value": {
+       "end": 147,
+       "start": 135,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "WZJE9WdwL8",
+      "type": "choices",
+      "value": {
+       "end": 147,
+       "start": 135,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "H_7zWAJInU",
+      "type": "labels",
+      "value": {
+       "end": 510,
+       "start": 492,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "H_7zWAJInU",
+      "type": "choices",
+      "value": {
+       "end": 510,
+       "start": 492,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "pOaVn0Iwob",
+      "type": "labels",
+      "value": {
+       "end": 595,
+       "start": 577,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "pOaVn0Iwob",
+      "type": "choices",
+      "value": {
+       "end": 595,
+       "start": 577,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "5V2JZqBsId",
+      "type": "labels",
+      "value": {
+       "end": 649,
+       "start": 635,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "5V2JZqBsId",
+      "type": "choices",
+      "value": {
+       "end": 649,
+       "start": 635,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "980N5OuGIS",
+      "type": "labels",
+      "value": {
+       "end": 694,
+       "start": 679,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "980N5OuGIS",
+      "type": "choices",
+      "value": {
+       "end": 694,
+       "start": 679,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jxp2F45fBq",
+      "type": "labels",
+      "value": {
+       "end": 460,
+       "start": 435,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "jxp2F45fBq",
+      "type": "choices",
+      "value": {
+       "end": 460,
+       "start": 435,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "LjuCp__eW1",
+      "type": "labels",
+      "value": {
+       "end": 561,
+       "start": 551,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "LjuCp__eW1",
+      "type": "choices",
+      "value": {
+       "end": 561,
+       "start": 551,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "FuQMfFj4hr",
+      "type": "labels",
+      "value": {
+       "end": 991,
+       "start": 949,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "FuQMfFj4hr",
+      "type": "choices",
+      "value": {
+       "end": 991,
+       "start": 949,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "M_l83fpB_L",
+      "type": "labels",
+      "value": {
+       "end": 1010,
+       "start": 998,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "M_l83fpB_L",
+      "type": "choices",
+      "value": {
+       "end": 1010,
+       "start": 998,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "E1exqG8Ziz",
+      "type": "labels",
+      "value": {
+       "end": 1043,
+       "start": 1032,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "E1exqG8Ziz",
+      "type": "choices",
+      "value": {
+       "end": 1043,
+       "start": 1032,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "qXtZsjdzcu",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "Ki-T8EEld7",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Ki-T8EEld7",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "WZJE9WdwL8",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "jxp2F45fBq",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "LjuCp__eW1",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "LjuCp__eW1",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "H_7zWAJInU",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "LjuCp__eW1",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "pOaVn0Iwob",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "LjuCp__eW1",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "5V2JZqBsId",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "LjuCp__eW1",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "980N5OuGIS",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "FuQMfFj4hr",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "M_l83fpB_L",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "E1exqG8Ziz",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "M_l83fpB_L",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-28T02:26:59.305078Z",
+    "updated_at": "2026-09-28T02:26:59.305104Z",
+    "draft_created_at": "2026-09-28T02:22:54.234226Z",
+    "lead_time": 368.098,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "b879e733-f130-4513-86bb-31b93f9dfd85",
+    "import_id": null,
+    "last_action": null,
+    "task": 370930,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335607
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.407122Z",
+  "updated_at": "2026-09-28T02:26:59.389464Z",
+  "inner_id": 16,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370931,
+  "annotations": [
+   {
+    "id": 148893,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "afnoJ6EJAG",
+      "type": "labels",
+      "value": {
+       "end": 1180,
+       "start": 1128,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "afnoJ6EJAG",
+      "type": "choices",
+      "value": {
+       "end": 1180,
+       "start": 1128,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "afnoJ6EJAG",
+      "type": "choices",
+      "value": {
+       "end": 1180,
+       "start": 1128,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "afnoJ6EJAG",
+      "type": "choices",
+      "value": {
+       "end": 1180,
+       "start": 1128,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "6FVugIjOXb",
+      "type": "labels",
+      "value": {
+       "end": 1232,
+       "start": 1203,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "6FVugIjOXb",
+      "type": "choices",
+      "value": {
+       "end": 1232,
+       "start": 1203,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "w_mMCBuUZX",
+      "type": "labels",
+      "value": {
+       "end": 1334,
+       "start": 1305,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "w_mMCBuUZX",
+      "type": "choices",
+      "value": {
+       "end": 1334,
+       "start": 1305,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "1NXzkQnIir",
+      "type": "labels",
+      "value": {
+       "end": 1374,
+       "start": 1347,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "1NXzkQnIir",
+      "type": "choices",
+      "value": {
+       "end": 1374,
+       "start": 1347,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "nbdCiVBt3l",
+      "type": "labels",
+      "value": {
+       "end": 1284,
+       "start": 1272,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "nbdCiVBt3l",
+      "type": "choices",
+      "value": {
+       "end": 1284,
+       "start": 1272,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-8QLawk1mT",
+      "type": "labels",
+      "value": {
+       "end": 1268,
+       "start": 1259,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-8QLawk1mT",
+      "type": "choices",
+      "value": {
+       "end": 1268,
+       "start": 1259,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "AK3XeCIyZV",
+      "type": "labels",
+      "value": {
+       "end": 6077,
+       "start": 6055,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "AK3XeCIyZV",
+      "type": "choices",
+      "value": {
+       "end": 6077,
+       "start": 6055,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "_Z3HzboHjr",
+      "type": "labels",
+      "value": {
+       "end": 6025,
+       "start": 6021,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "_Z3HzboHjr",
+      "type": "choices",
+      "value": {
+       "end": 6025,
+       "start": 6021,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "FED703ur0G",
+      "type": "labels",
+      "value": {
+       "end": 6256,
+       "start": 6227,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "FED703ur0G",
+      "type": "choices",
+      "value": {
+       "end": 6256,
+       "start": 6227,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "NVC18sRz9k",
+      "type": "labels",
+      "value": {
+       "end": 6505,
+       "start": 6489,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "NVC18sRz9k",
+      "type": "choices",
+      "value": {
+       "end": 6505,
+       "start": 6489,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "NVNN1FrW8E",
+      "type": "labels",
+      "value": {
+       "end": 6583,
+       "start": 6568,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "NVNN1FrW8E",
+      "type": "choices",
+      "value": {
+       "end": 6583,
+       "start": 6568,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "5QAhvR1G9l",
+      "type": "labels",
+      "value": {
+       "end": 6606,
+       "start": 6591,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "5QAhvR1G9l",
+      "type": "choices",
+      "value": {
+       "end": 6606,
+       "start": 6591,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "bzMp-rKSiz",
+      "type": "labels",
+      "value": {
+       "end": 6665,
+       "start": 6649,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "bzMp-rKSiz",
+      "type": "choices",
+      "value": {
+       "end": 6665,
+       "start": 6649,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "DhKn6-oeUf",
+      "type": "labels",
+      "value": {
+       "end": 6685,
+       "start": 6674,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "DhKn6-oeUf",
+      "type": "choices",
+      "value": {
+       "end": 6685,
+       "start": 6674,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "afnoJ6EJAG",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "6FVugIjOXb",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "afnoJ6EJAG",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "w_mMCBuUZX",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "afnoJ6EJAG",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "1NXzkQnIir",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "nbdCiVBt3l",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "afnoJ6EJAG",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "AK3XeCIyZV",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "FED703ur0G",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "NVC18sRz9k",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "NVNN1FrW8E",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "NVC18sRz9k",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "5QAhvR1G9l",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "NVC18sRz9k",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "bzMp-rKSiz",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "NVC18sRz9k",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "DhKn6-oeUf",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "_Z3HzboHjr",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "NVC18sRz9k",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-28T02:50:00.243490Z",
+    "updated_at": "2026-09-28T02:50:00.243516Z",
+    "draft_created_at": "2026-09-28T02:42:04.728440Z",
+    "lead_time": 593.477,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "dc78ad4c-ae09-4fa1-aae1-688b4bd5f860",
+    "import_id": null,
+    "last_action": null,
+    "task": 370931,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335341
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.407249Z",
+  "updated_at": "2026-09-28T02:50:00.329769Z",
+  "inner_id": 17,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370932,
+  "annotations": [
+   {
+    "id": 148892,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "iHJ2Soxt7Z",
+      "type": "labels",
+      "value": {
+       "end": 513,
+       "start": 496,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "iHJ2Soxt7Z",
+      "type": "choices",
+      "value": {
+       "end": 513,
+       "start": 496,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "bIgWz5MYvS",
+      "type": "labels",
+      "value": {
+       "end": 761,
+       "start": 754,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "bIgWz5MYvS",
+      "type": "choices",
+      "value": {
+       "end": 761,
+       "start": 754,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "bIgWz5MYvS",
+      "type": "choices",
+      "value": {
+       "end": 761,
+       "start": 754,
+       "choices": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "bIgWz5MYvS",
+      "type": "choices",
+      "value": {
+       "end": 761,
+       "start": 754,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-28T02:40:02.124437Z",
+    "updated_at": "2026-09-28T02:40:02.124460Z",
+    "draft_created_at": "2026-09-28T02:38:32.645260Z",
+    "lead_time": 120.263,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "7d43e6f4-444e-4156-a3ca-bbf1cb1b49b4",
+    "import_id": null,
+    "last_action": null,
+    "task": 370932,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335334
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.407376Z",
+  "updated_at": "2026-09-28T02:40:02.174586Z",
+  "inner_id": 18,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370933,
+  "annotations": [
+   {
+    "id": 148891,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "J_zDz-CGXT",
+      "type": "labels",
+      "value": {
+       "end": 181,
+       "start": 139,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "J_zDz-CGXT",
+      "type": "choices",
+      "value": {
+       "end": 181,
+       "start": 139,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "4V63pOcGtX",
+      "type": "labels",
+      "value": {
+       "end": 114,
+       "start": 102,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "4V63pOcGtX",
+      "type": "choices",
+      "value": {
+       "end": 114,
+       "start": 102,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "1AZUuE-e4L",
+      "type": "labels",
+      "value": {
+       "end": 240,
+       "start": 236,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "1AZUuE-e4L",
+      "type": "choices",
+      "value": {
+       "end": 240,
+       "start": 236,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "sN9pHBfino",
+      "type": "labels",
+      "value": {
+       "end": 315,
+       "start": 303,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "sN9pHBfino",
+      "type": "choices",
+      "value": {
+       "end": 315,
+       "start": 303,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "FCsfbguemv",
+      "type": "labels",
+      "value": {
+       "end": 96,
+       "start": 65,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "FCsfbguemv",
+      "type": "choices",
+      "value": {
+       "end": 96,
+       "start": 65,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "gmqGJFhhq-",
+      "type": "labels",
+      "value": {
+       "end": 499,
+       "start": 478,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "gmqGJFhhq-",
+      "type": "choices",
+      "value": {
+       "end": 499,
+       "start": 478,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "C0fCYJNHAf",
+      "type": "labels",
+      "value": {
+       "end": 556,
+       "start": 542,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "C0fCYJNHAf",
+      "type": "choices",
+      "value": {
+       "end": 556,
+       "start": 542,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "6JKDJVC8X0",
+      "type": "labels",
+      "value": {
+       "end": 616,
+       "start": 603,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "6JKDJVC8X0",
+      "type": "choices",
+      "value": {
+       "end": 616,
+       "start": 603,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "mgNSAQzO9g",
+      "type": "labels",
+      "value": {
+       "end": 566,
+       "start": 562,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "mgNSAQzO9g",
+      "type": "choices",
+      "value": {
+       "end": 566,
+       "start": 562,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "sfN0ueMfx2",
+      "type": "labels",
+      "value": {
+       "end": 675,
+       "start": 661,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "sfN0ueMfx2",
+      "type": "choices",
+      "value": {
+       "end": 675,
+       "start": 661,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "sfN0ueMfx2",
+      "type": "choices",
+      "value": {
+       "end": 675,
+       "start": 661,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "sfN0ueMfx2",
+      "type": "choices",
+      "value": {
+       "end": 675,
+       "start": 661,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "JafMqTtkZA",
+      "type": "labels",
+      "value": {
+       "end": 818,
+       "start": 798,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "JafMqTtkZA",
+      "type": "choices",
+      "value": {
+       "end": 818,
+       "start": 798,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "7qkM8gJpwW",
+      "type": "labels",
+      "value": {
+       "end": 1006,
+       "start": 964,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "7qkM8gJpwW",
+      "type": "choices",
+      "value": {
+       "end": 1006,
+       "start": 964,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "EHxk9k1sJD",
+      "type": "labels",
+      "value": {
+       "end": 1025,
+       "start": 1013,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "EHxk9k1sJD",
+      "type": "choices",
+      "value": {
+       "end": 1025,
+       "start": 1013,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "sS32l83Kya",
+      "type": "labels",
+      "value": {
+       "end": 1058,
+       "start": 1047,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "sS32l83Kya",
+      "type": "choices",
+      "value": {
+       "end": 1058,
+       "start": 1047,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "FCsfbguemv",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "J_zDz-CGXT",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "J_zDz-CGXT",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "4V63pOcGtX",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "sN9pHBfino",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "4V63pOcGtX",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "sN9pHBfino",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "1AZUuE-e4L",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "gmqGJFhhq-",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "mgNSAQzO9g",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "mgNSAQzO9g",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "C0fCYJNHAf",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "mgNSAQzO9g",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "6JKDJVC8X0",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "sfN0ueMfx2",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "6JKDJVC8X0",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "mgNSAQzO9g",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "JafMqTtkZA",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "sS32l83Kya",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "EHxk9k1sJD",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "7qkM8gJpwW",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "EHxk9k1sJD",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-28T02:37:58.074510Z",
+    "updated_at": "2026-09-28T02:37:58.074536Z",
+    "draft_created_at": "2026-09-28T02:31:18.678537Z",
+    "lead_time": 411.869,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "6651949c-f74c-4efa-9919-414d3243be19",
+    "import_id": null,
+    "last_action": null,
+    "task": 370933,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335571
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.407501Z",
+  "updated_at": "2026-09-28T02:37:58.156045Z",
+  "inner_id": 19,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ },
+ {
+  "id": 370934,
+  "annotations": [
+   {
+    "id": 148890,
+    "completed_by": 1188,
+    "result": [
+     {
+      "id": "vpfYe2Y0T8",
+      "type": "labels",
+      "value": {
+       "end": 26,
+       "start": 23,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "vpfYe2Y0T8",
+      "type": "choices",
+      "value": {
+       "end": 26,
+       "start": 23,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-z8VHLvmXa",
+      "type": "labels",
+      "value": {
+       "end": 136,
+       "start": 50,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-z8VHLvmXa",
+      "type": "choices",
+      "value": {
+       "end": 136,
+       "start": 50,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "WTcVCmeXO6",
+      "type": "labels",
+      "value": {
+       "end": 271,
+       "start": 196,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "WTcVCmeXO6",
+      "type": "choices",
+      "value": {
+       "end": 271,
+       "start": 196,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ssZwEMju0q",
+      "type": "labels",
+      "value": {
+       "end": 164,
+       "start": 160,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ssZwEMju0q",
+      "type": "choices",
+      "value": {
+       "end": 164,
+       "start": 160,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "C_8HmqWP_M",
+      "type": "labels",
+      "value": {
+       "end": 1413,
+       "start": 1396,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "C_8HmqWP_M",
+      "type": "choices",
+      "value": {
+       "end": 1413,
+       "start": 1396,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "WoncjhMO0W",
+      "type": "labels",
+      "value": {
+       "end": 1447,
+       "start": 1438,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "WoncjhMO0W",
+      "type": "choices",
+      "value": {
+       "end": 1447,
+       "start": 1438,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "mhMi1Ax4L4",
+      "type": "labels",
+      "value": {
+       "end": 1483,
+       "start": 1475,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "mhMi1Ax4L4",
+      "type": "choices",
+      "value": {
+       "end": 1483,
+       "start": 1475,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "mhMi1Ax4L4",
+      "type": "choices",
+      "value": {
+       "end": 1483,
+       "start": 1475,
+       "choices": [
+        "None of these / not redress-related"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "mhMi1Ax4L4",
+      "type": "choices",
+      "value": {
+       "end": 1483,
+       "start": 1475,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "-rOLq3mShD",
+      "type": "labels",
+      "value": {
+       "end": 1577,
+       "start": 1574,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-rOLq3mShD",
+      "type": "choices",
+      "value": {
+       "end": 1577,
+       "start": 1574,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "ssZwEMju0q",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "WTcVCmeXO6",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "WTcVCmeXO6",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "vpfYe2Y0T8",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "WTcVCmeXO6",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "-z8VHLvmXa",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "mhMi1Ax4L4",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "-rOLq3mShD",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "C_8HmqWP_M",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "-rOLq3mShD",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-28T02:31:01.171543Z",
+    "updated_at": "2026-09-28T02:31:01.171568Z",
+    "draft_created_at": "2026-09-28T02:27:59.594354Z",
+    "lead_time": 227.311,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "3ca8cf30-fac2-4376-89e1-a5e607cdc4fb",
+    "import_id": null,
+    "last_action": null,
+    "task": 370934,
+    "project": 712,
+    "updated_by": 1188,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "7d21de3c-cross_for_elke_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "cross",
+   "source_file": "Cira.json",
+   "orig_task_id": 335343
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:46:51.407629Z",
+  "updated_at": "2026-09-28T02:31:01.249498Z",
+  "inner_id": 20,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 712,
+  "updated_by": 1188,
+  "comment_authors": []
+ }
+]

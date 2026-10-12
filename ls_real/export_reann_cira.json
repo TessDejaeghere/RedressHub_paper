@@ -1,0 +1,6346 @@
+[
+ {
+  "id": 370999,
+  "annotations": [
+   {
+    "id": 146693,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "_GZkVBasSZ",
+      "type": "labels",
+      "value": {
+       "end": 68,
+       "start": 44,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "_GZkVBasSZ",
+      "type": "choices",
+      "value": {
+       "end": 68,
+       "start": 44,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "7YuxCekEar",
+      "type": "labels",
+      "value": {
+       "end": 355,
+       "start": 331,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "7YuxCekEar",
+      "type": "choices",
+      "value": {
+       "end": 355,
+       "start": 331,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ZjgZ_7lEYv",
+      "type": "labels",
+      "value": {
+       "end": 375,
+       "start": 366,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ZjgZ_7lEYv",
+      "type": "choices",
+      "value": {
+       "end": 375,
+       "start": 366,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "uRqfBB7ZFa",
+      "type": "labels",
+      "value": {
+       "end": 2180,
+       "start": 2173,
+       "labels": [
+        "Public acknowledgements"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "uRqfBB7ZFa",
+      "type": "choices",
+      "value": {
+       "end": 2180,
+       "start": 2173,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "lNGIKBvqIk",
+      "type": "labels",
+      "value": {
+       "end": 2211,
+       "start": 2199,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "lNGIKBvqIk",
+      "type": "choices",
+      "value": {
+       "end": 2211,
+       "start": 2199,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "dhpt_d3ih0",
+      "type": "labels",
+      "value": {
+       "end": 2224,
+       "start": 2215,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "dhpt_d3ih0",
+      "type": "choices",
+      "value": {
+       "end": 2224,
+       "start": 2215,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "g6L0PlVHoM",
+      "type": "labels",
+      "value": {
+       "end": 5343,
+       "start": 5339,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "g6L0PlVHoM",
+      "type": "choices",
+      "value": {
+       "end": 5343,
+       "start": 5339,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "g6L0PlVHoM",
+      "type": "choices",
+      "value": {
+       "end": 5343,
+       "start": 5339,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "g6L0PlVHoM",
+      "type": "choices",
+      "value": {
+       "end": 5343,
+       "start": 5339,
+       "choices": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "jJp-FU-2JW",
+      "type": "labels",
+      "value": {
+       "end": 5316,
+       "start": 5306,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "jJp-FU-2JW",
+      "type": "choices",
+      "value": {
+       "end": 5316,
+       "start": 5306,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jJp-FU-2JW",
+      "type": "choices",
+      "value": {
+       "end": 5316,
+       "start": 5306,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "jJp-FU-2JW",
+      "type": "choices",
+      "value": {
+       "end": 5316,
+       "start": 5306,
+       "choices": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "type": "relation",
+      "to_id": "uRqfBB7ZFa",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "lNGIKBvqIk",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-14T09:13:37.587735Z",
+    "updated_at": "2026-09-14T09:13:37.587755Z",
+    "draft_created_at": "2026-09-14T08:40:44.845295Z",
+    "lead_time": 1986.394,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "4d770bb2-aac5-47c2-a16d-83b9b13d8aab",
+    "import_id": null,
+    "last_action": null,
+    "task": 370999,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285647
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.639852Z",
+  "updated_at": "2026-09-14T09:13:37.649462Z",
+  "inner_id": 1,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371000,
+  "annotations": [
+   {
+    "id": 146709,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "wDphaquobp",
+      "type": "labels",
+      "value": {
+       "end": 471,
+       "start": 428,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "wDphaquobp",
+      "type": "choices",
+      "value": {
+       "end": 471,
+       "start": 428,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "r1RMDqxjrO",
+      "type": "labels",
+      "value": {
+       "end": 420,
+       "start": 408,
+       "labels": [
+        "Litigation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "r1RMDqxjrO",
+      "type": "choices",
+      "value": {
+       "end": 420,
+       "start": 408,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "r1RMDqxjrO",
+      "type": "choices",
+      "value": {
+       "end": 420,
+       "start": 408,
+       "choices": [
+        "Litigation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "r1RMDqxjrO",
+      "type": "choices",
+      "value": {
+       "end": 420,
+       "start": 408,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "bJ1dApA8Em",
+      "type": "labels",
+      "value": {
+       "end": 2512,
+       "start": 2498,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "bJ1dApA8Em",
+      "type": "choices",
+      "value": {
+       "end": 2512,
+       "start": 2498,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "JM54EIPegm",
+      "type": "labels",
+      "value": {
+       "end": 2537,
+       "start": 2518,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "JM54EIPegm",
+      "type": "choices",
+      "value": {
+       "end": 2537,
+       "start": 2518,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "H8kep3H51A",
+      "type": "labels",
+      "value": {
+       "end": 2556,
+       "start": 2546,
+       "labels": [
+        "State, executive and legislative actions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "H8kep3H51A",
+      "type": "choices",
+      "value": {
+       "end": 2556,
+       "start": 2546,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "tQzY4jEKOz",
+      "type": "labels",
+      "value": {
+       "end": 3064,
+       "start": 3053,
+       "labels": [
+        "Apologies"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "tQzY4jEKOz",
+      "type": "choices",
+      "value": {
+       "end": 3064,
+       "start": 3053,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "FYXg55yYjl",
+      "type": "labels",
+      "value": {
+       "end": 3038,
+       "start": 3007,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "FYXg55yYjl",
+      "type": "choices",
+      "value": {
+       "end": 3038,
+       "start": 3007,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "DsB_kcbj2Y",
+      "type": "labels",
+      "value": {
+       "end": 3001,
+       "start": 2987,
+       "labels": [
+        "Time_vague"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "DsB_kcbj2Y",
+      "type": "choices",
+      "value": {
+       "end": 3001,
+       "start": 2987,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Wx1Bg33icf",
+      "type": "labels",
+      "value": {
+       "end": 6643,
+       "start": 6596,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Wx1Bg33icf",
+      "type": "choices",
+      "value": {
+       "end": 6643,
+       "start": 6596,
+       "choices": [
+        "mostly certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Wx1Bg33icf",
+      "type": "choices",
+      "value": {
+       "end": 6643,
+       "start": 6596,
+       "choices": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "Wx1Bg33icf",
+      "type": "choices",
+      "value": {
+       "end": 6643,
+       "start": 6596,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "type": "relation",
+      "to_id": "H8kep3H51A",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "JM54EIPegm",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "bJ1dApA8Em",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "H8kep3H51A",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "tQzY4jEKOz",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "FYXg55yYjl",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "DsB_kcbj2Y",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "tQzY4jEKOz",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-14T09:32:15.587871Z",
+    "updated_at": "2026-09-14T09:32:15.587897Z",
+    "draft_created_at": "2026-09-14T09:17:03.706011Z",
+    "lead_time": 1106.8980000000001,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "1e854d06-cfeb-47be-844b-2d9d6ac714c1",
+    "import_id": null,
+    "last_action": null,
+    "task": 371000,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285648
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.640013Z",
+  "updated_at": "2026-09-14T09:32:15.666547Z",
+  "inner_id": 2,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371001,
+  "annotations": [
+   {
+    "id": 147077,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "E3F-EnRI9Z",
+      "type": "labels",
+      "value": {
+       "end": 1934,
+       "start": 1927,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "E3F-EnRI9Z",
+      "type": "choices",
+      "value": {
+       "end": 1934,
+       "start": 1927,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "wLmnUqNzrr",
+      "type": "labels",
+      "value": {
+       "end": 1976,
+       "start": 1958,
+       "labels": [
+        "Restitution"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "wLmnUqNzrr",
+      "type": "choices",
+      "value": {
+       "end": 1976,
+       "start": 1958,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "hPKEonAYTK",
+      "type": "labels",
+      "value": {
+       "end": 1958,
+       "start": 1950,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "hPKEonAYTK",
+      "type": "choices",
+      "value": {
+       "end": 1958,
+       "start": 1950,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "hPKEonAYTK",
+      "type": "choices",
+      "value": {
+       "end": 1958,
+       "start": 1950,
+       "choices": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "hPKEonAYTK",
+      "type": "choices",
+      "value": {
+       "end": 1958,
+       "start": 1950,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "8icHI5yjRA",
+      "type": "labels",
+      "value": {
+       "end": 2331,
+       "start": 2323,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "8icHI5yjRA",
+      "type": "choices",
+      "value": {
+       "end": 2331,
+       "start": 2323,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "YopwL2NycX",
+      "type": "labels",
+      "value": {
+       "end": 2319,
+       "start": 2312,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "YopwL2NycX",
+      "type": "choices",
+      "value": {
+       "end": 2319,
+       "start": 2312,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "o-HUHuF6DV",
+      "type": "labels",
+      "value": {
+       "end": 2309,
+       "start": 2282,
+       "labels": [
+        "Restitution"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "o-HUHuF6DV",
+      "type": "choices",
+      "value": {
+       "end": 2309,
+       "start": 2282,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Sb1yf0xRlw",
+      "type": "labels",
+      "value": {
+       "end": 3572,
+       "start": 3568,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Sb1yf0xRlw",
+      "type": "choices",
+      "value": {
+       "end": 3572,
+       "start": 3568,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jt8owF-1Z5",
+      "type": "labels",
+      "value": {
+       "end": 3539,
+       "start": 3525,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "jt8owF-1Z5",
+      "type": "choices",
+      "value": {
+       "end": 3539,
+       "start": 3525,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "J7lAYReh7U",
+      "type": "labels",
+      "value": {
+       "end": 3653,
+       "start": 3577,
+       "labels": [
+        "Litigation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "J7lAYReh7U",
+      "type": "choices",
+      "value": {
+       "end": 3653,
+       "start": 3577,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "NtY4zviPpf",
+      "type": "labels",
+      "value": {
+       "end": 3865,
+       "start": 3841,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "NtY4zviPpf",
+      "type": "choices",
+      "value": {
+       "end": 3865,
+       "start": 3841,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "T6IVltglda",
+      "type": "labels",
+      "value": {
+       "end": 3903,
+       "start": 3890,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "T6IVltglda",
+      "type": "choices",
+      "value": {
+       "end": 3903,
+       "start": 3890,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "bl3PK_w-rk",
+      "type": "labels",
+      "value": {
+       "end": 4054,
+       "start": 4046,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "bl3PK_w-rk",
+      "type": "choices",
+      "value": {
+       "end": 4054,
+       "start": 4046,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "qDCofX3qPG",
+      "type": "labels",
+      "value": {
+       "end": 4042,
+       "start": 4022,
+       "labels": [
+        "Restitution"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "qDCofX3qPG",
+      "type": "choices",
+      "value": {
+       "end": 4042,
+       "start": 4022,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "qDCofX3qPG",
+      "type": "choices",
+      "value": {
+       "end": 4042,
+       "start": 4022,
+       "choices": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "qDCofX3qPG",
+      "type": "choices",
+      "value": {
+       "end": 4042,
+       "start": 4022,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "boQfF8u8Z0",
+      "type": "labels",
+      "value": {
+       "end": 4073,
+       "start": 4056,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "boQfF8u8Z0",
+      "type": "choices",
+      "value": {
+       "end": 4073,
+       "start": 4056,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "wcUIPbtP0L",
+      "type": "labels",
+      "value": {
+       "end": 4335,
+       "start": 4327,
+       "labels": [
+        "Apologies"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "wcUIPbtP0L",
+      "type": "choices",
+      "value": {
+       "end": 4335,
+       "start": 4327,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "cS2GQdJ4Qb",
+      "type": "labels",
+      "value": {
+       "end": 4763,
+       "start": 4757,
+       "labels": [
+        "Public acknowledgements"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "cS2GQdJ4Qb",
+      "type": "choices",
+      "value": {
+       "end": 4763,
+       "start": 4757,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "c2jZ8znrGg",
+      "type": "labels",
+      "value": {
+       "end": 4778,
+       "start": 4768,
+       "labels": [
+        "Time_vague"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "c2jZ8znrGg",
+      "type": "choices",
+      "value": {
+       "end": 4778,
+       "start": 4768,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "2Za483vrwE",
+      "type": "labels",
+      "value": {
+       "end": 4802,
+       "start": 4786,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "2Za483vrwE",
+      "type": "choices",
+      "value": {
+       "end": 4802,
+       "start": 4786,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Re4OCn4Uvj",
+      "type": "labels",
+      "value": {
+       "end": 4745,
+       "start": 4732,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Re4OCn4Uvj",
+      "type": "choices",
+      "value": {
+       "end": 4745,
+       "start": 4732,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "E3F-EnRI9Z",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "wLmnUqNzrr",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "wLmnUqNzrr",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "hPKEonAYTK",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "YopwL2NycX",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "o-HUHuF6DV",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "8icHI5yjRA",
+      "from_id": "o-HUHuF6DV",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "T6IVltglda",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "NtY4zviPpf",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "wcUIPbtP0L",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "boQfF8u8Z0",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "bl3PK_w-rk",
+      "from_id": "wcUIPbtP0L",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "J7lAYReh7U",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "jt8owF-1Z5",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Sb1yf0xRlw",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "J7lAYReh7U",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "cS2GQdJ4Qb",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "Re4OCn4Uvj",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "c2jZ8znrGg",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "cS2GQdJ4Qb",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "2Za483vrwE",
+      "from_id": "cS2GQdJ4Qb",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "qDCofX3qPG",
+      "from_id": "wcUIPbtP0L",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T08:18:18.447447Z",
+    "updated_at": "2026-09-15T08:18:18.447474Z",
+    "draft_created_at": "2026-09-14T09:35:35.315783Z",
+    "lead_time": 81960.222,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "90a9b719-bdd1-40e6-8798-28082e49b56a",
+    "import_id": null,
+    "last_action": null,
+    "task": 371001,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285649
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.640143Z",
+  "updated_at": "2026-09-15T08:18:18.531146Z",
+  "inner_id": 3,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371002,
+  "annotations": [
+   {
+    "id": 147102,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "-_yr-spB1s",
+      "type": "labels",
+      "value": {
+       "end": 6372,
+       "start": 6356,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-_yr-spB1s",
+      "type": "choices",
+      "value": {
+       "end": 6372,
+       "start": 6356,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "25l0ZTC-SF",
+      "type": "labels",
+      "value": {
+       "end": 6329,
+       "start": 6322,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "25l0ZTC-SF",
+      "type": "choices",
+      "value": {
+       "end": 6329,
+       "start": 6322,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "25l0ZTC-SF",
+      "type": "choices",
+      "value": {
+       "end": 6329,
+       "start": 6322,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "zBP67KLKBK",
+      "type": "labels",
+      "value": {
+       "end": 6397,
+       "start": 6387,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "zBP67KLKBK",
+      "type": "choices",
+      "value": {
+       "end": 6397,
+       "start": 6387,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "zBP67KLKBK",
+      "type": "choices",
+      "value": {
+       "end": 6397,
+       "start": 6387,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "zBP67KLKBK",
+      "type": "choices",
+      "value": {
+       "end": 6397,
+       "start": 6387,
+       "choices": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "hq0Ja_m9_u",
+      "type": "labels",
+      "value": {
+       "end": 11546,
+       "start": 11507,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "hq0Ja_m9_u",
+      "type": "choices",
+      "value": {
+       "end": 11546,
+       "start": 11507,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "hq0Ja_m9_u",
+      "type": "choices",
+      "value": {
+       "end": 11546,
+       "start": 11507,
+       "choices": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "hq0Ja_m9_u",
+      "type": "choices",
+      "value": {
+       "end": 11546,
+       "start": 11507,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "HW45lORpjb",
+      "type": "labels",
+      "value": {
+       "end": 17564,
+       "start": 17548,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "HW45lORpjb",
+      "type": "choices",
+      "value": {
+       "end": 17564,
+       "start": 17548,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "nV6gicFkrd",
+      "type": "labels",
+      "value": {
+       "end": 17590,
+       "start": 17572,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "nV6gicFkrd",
+      "type": "choices",
+      "value": {
+       "end": 17590,
+       "start": 17572,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "nV6gicFkrd",
+      "from_id": "HW45lORpjb",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "25l0ZTC-SF",
+      "from_id": "-_yr-spB1s",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "zBP67KLKBK",
+      "from_id": "-_yr-spB1s",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T09:00:10.724062Z",
+    "updated_at": "2026-09-15T09:00:10.724092Z",
+    "draft_created_at": "2026-09-15T08:41:48.364692Z",
+    "lead_time": 2505.606,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "fcb834c2-3dba-49ff-bb2c-ea33dcf6eb0a",
+    "import_id": null,
+    "last_action": null,
+    "task": 371002,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285651
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.640268Z",
+  "updated_at": "2026-09-15T09:00:10.803053Z",
+  "inner_id": 4,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371003,
+  "annotations": [
+   {
+    "id": 147191,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "So4EMhbLRm",
+      "type": "labels",
+      "value": {
+       "end": 765,
+       "start": 746,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "So4EMhbLRm",
+      "type": "choices",
+      "value": {
+       "end": 765,
+       "start": 746,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "So4EMhbLRm",
+      "type": "choices",
+      "value": {
+       "end": 765,
+       "start": 746,
+       "choices": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "F0EwDPiflR",
+      "type": "labels",
+      "value": {
+       "end": 1510,
+       "start": 1493,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "F0EwDPiflR",
+      "type": "choices",
+      "value": {
+       "end": 1510,
+       "start": 1493,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "-efGJpuDTy",
+      "type": "labels",
+      "value": {
+       "end": 1528,
+       "start": 1514,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "-efGJpuDTy",
+      "type": "choices",
+      "value": {
+       "end": 1528,
+       "start": 1514,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "tiiIJ_lLOk",
+      "type": "labels",
+      "value": {
+       "end": 1555,
+       "start": 1551,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "tiiIJ_lLOk",
+      "type": "choices",
+      "value": {
+       "end": 1555,
+       "start": 1551,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "pg-XqjyBGA",
+      "type": "labels",
+      "value": {
+       "end": 2808,
+       "start": 2803,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "pg-XqjyBGA",
+      "type": "choices",
+      "value": {
+       "end": 2808,
+       "start": 2803,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "F0EwDPiflR",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "-efGJpuDTy",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "tiiIJ_lLOk",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "F0EwDPiflR",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T13:15:16.554793Z",
+    "updated_at": "2026-09-15T13:15:16.554807Z",
+    "draft_created_at": "2026-09-15T13:10:44.338988Z",
+    "lead_time": 7063.732,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "15eefddc-903a-4f49-bd4e-e762f99fc829",
+    "import_id": null,
+    "last_action": null,
+    "task": 371003,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285656
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.640392Z",
+  "updated_at": "2026-09-15T13:15:16.600673Z",
+  "inner_id": 5,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371004,
+  "annotations": [
+   {
+    "id": 147193,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "Nkf8H2ZWSZ",
+      "type": "labels",
+      "value": {
+       "end": 37,
+       "start": 2,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Nkf8H2ZWSZ",
+      "type": "choices",
+      "value": {
+       "end": 37,
+       "start": 2,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "pbMHwO6Rhn",
+      "type": "labels",
+      "value": {
+       "end": 558,
+       "start": 523,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "pbMHwO6Rhn",
+      "type": "choices",
+      "value": {
+       "end": 558,
+       "start": 523,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "6uxlBdiEZQ",
+      "type": "labels",
+      "value": {
+       "end": 902,
+       "start": 893,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "6uxlBdiEZQ",
+      "type": "choices",
+      "value": {
+       "end": 902,
+       "start": 893,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "zcNgl5DDtO",
+      "type": "labels",
+      "value": {
+       "end": 918,
+       "start": 906,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "zcNgl5DDtO",
+      "type": "choices",
+      "value": {
+       "end": 918,
+       "start": 906,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "hs1JeJrzll",
+      "type": "labels",
+      "value": {
+       "end": 943,
+       "start": 934,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "hs1JeJrzll",
+      "type": "choices",
+      "value": {
+       "end": 943,
+       "start": 934,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "pGd8UzJP_2",
+      "type": "labels",
+      "value": {
+       "end": 958,
+       "start": 947,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "pGd8UzJP_2",
+      "type": "choices",
+      "value": {
+       "end": 958,
+       "start": 947,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "eAQRKvREd4",
+      "type": "labels",
+      "value": {
+       "end": 1064,
+       "start": 1039,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "eAQRKvREd4",
+      "type": "choices",
+      "value": {
+       "end": 1064,
+       "start": 1039,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "34pDzxrh_4",
+      "type": "labels",
+      "value": {
+       "end": 1524,
+       "start": 1509,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "34pDzxrh_4",
+      "type": "choices",
+      "value": {
+       "end": 1524,
+       "start": 1509,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "zEyOEiQEYx",
+      "type": "labels",
+      "value": {
+       "end": 4110,
+       "start": 4102,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "zEyOEiQEYx",
+      "type": "choices",
+      "value": {
+       "end": 4110,
+       "start": 4102,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "kRAeA1uVDR",
+      "type": "labels",
+      "value": {
+       "end": 3976,
+       "start": 3967,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "kRAeA1uVDR",
+      "type": "choices",
+      "value": {
+       "end": 3976,
+       "start": 3967,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "dw4wb9uJPe",
+      "type": "labels",
+      "value": {
+       "end": 4023,
+       "start": 4011,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "dw4wb9uJPe",
+      "type": "choices",
+      "value": {
+       "end": 4023,
+       "start": 4011,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "JG2gwZgCTK",
+      "type": "labels",
+      "value": {
+       "end": 3997,
+       "start": 3993,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "JG2gwZgCTK",
+      "type": "choices",
+      "value": {
+       "end": 3997,
+       "start": 3993,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "rrw5ocSohG",
+      "type": "labels",
+      "value": {
+       "end": 4335,
+       "start": 4323,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "rrw5ocSohG",
+      "type": "choices",
+      "value": {
+       "end": 4335,
+       "start": 4323,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "3OnyPVw1bB",
+      "type": "labels",
+      "value": {
+       "end": 4881,
+       "start": 4869,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "3OnyPVw1bB",
+      "type": "choices",
+      "value": {
+       "end": 4881,
+       "start": 4869,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "W732rXcOFK",
+      "type": "labels",
+      "value": {
+       "end": 5413,
+       "start": 5404,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "W732rXcOFK",
+      "type": "choices",
+      "value": {
+       "end": 5413,
+       "start": 5404,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "yYKOmJvHf3",
+      "type": "labels",
+      "value": {
+       "end": 5906,
+       "start": 5894,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "yYKOmJvHf3",
+      "type": "choices",
+      "value": {
+       "end": 5906,
+       "start": 5894,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Aq5w67LVq4",
+      "type": "labels",
+      "value": {
+       "end": 6145,
+       "start": 6133,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Aq5w67LVq4",
+      "type": "choices",
+      "value": {
+       "end": 6145,
+       "start": 6133,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "9Y6tLuxoBO",
+      "type": "labels",
+      "value": {
+       "end": 7041,
+       "start": 7031,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "9Y6tLuxoBO",
+      "type": "choices",
+      "value": {
+       "end": 7041,
+       "start": 7031,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "6uxlBdiEZQ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "zcNgl5DDtO",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "6uxlBdiEZQ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "hs1JeJrzll",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "pGd8UzJP_2",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "6uxlBdiEZQ",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "pbMHwO6Rhn",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "eAQRKvREd4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "34pDzxrh_4",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "pbMHwO6Rhn",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "zEyOEiQEYx",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "dw4wb9uJPe",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "zEyOEiQEYx",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "kRAeA1uVDR",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "JG2gwZgCTK",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "zEyOEiQEYx",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T13:25:59.535687Z",
+    "updated_at": "2026-09-15T13:25:59.535715Z",
+    "draft_created_at": "2026-09-15T13:15:37.883410Z",
+    "lead_time": 640.659,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "e919e56b-0d00-473a-bca5-e2b71c1aeffc",
+    "import_id": null,
+    "last_action": null,
+    "task": 371004,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285657
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.640515Z",
+  "updated_at": "2026-09-15T13:25:59.618321Z",
+  "inner_id": 6,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371005,
+  "annotations": [
+   {
+    "id": 147199,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "hBqELVk5Y7",
+      "type": "labels",
+      "value": {
+       "end": 49,
+       "start": 46,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "hBqELVk5Y7",
+      "type": "choices",
+      "value": {
+       "end": 49,
+       "start": 46,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "aIjfY4SXI4",
+      "type": "labels",
+      "value": {
+       "end": 120,
+       "start": 69,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "aIjfY4SXI4",
+      "type": "choices",
+      "value": {
+       "end": 120,
+       "start": 69,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "MZljnMPf2S",
+      "type": "labels",
+      "value": {
+       "end": 138,
+       "start": 126,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "MZljnMPf2S",
+      "type": "choices",
+      "value": {
+       "end": 138,
+       "start": 126,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "vJ4SWY7jaI",
+      "type": "labels",
+      "value": {
+       "end": 146,
+       "start": 142,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "vJ4SWY7jaI",
+      "type": "choices",
+      "value": {
+       "end": 146,
+       "start": 142,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ppypWKhrbW",
+      "type": "labels",
+      "value": {
+       "end": 157,
+       "start": 151,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ppypWKhrbW",
+      "type": "choices",
+      "value": {
+       "end": 157,
+       "start": 151,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "_BldLSWfZu",
+      "type": "labels",
+      "value": {
+       "end": 226,
+       "start": 223,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "_BldLSWfZu",
+      "type": "choices",
+      "value": {
+       "end": 226,
+       "start": 223,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "1N-0Mebtq5",
+      "type": "labels",
+      "value": {
+       "end": 243,
+       "start": 228,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "1N-0Mebtq5",
+      "type": "choices",
+      "value": {
+       "end": 243,
+       "start": 228,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "93zm0H_JoJ",
+      "type": "labels",
+      "value": {
+       "end": 256,
+       "start": 250,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "93zm0H_JoJ",
+      "type": "choices",
+      "value": {
+       "end": 256,
+       "start": 250,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Pz1mTj4w-h",
+      "type": "labels",
+      "value": {
+       "end": 202,
+       "start": 199,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Pz1mTj4w-h",
+      "type": "choices",
+      "value": {
+       "end": 202,
+       "start": 199,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "9vXdKgKnBQ",
+      "type": "labels",
+      "value": {
+       "end": 1316,
+       "start": 1311,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "9vXdKgKnBQ",
+      "type": "choices",
+      "value": {
+       "end": 1316,
+       "start": 1311,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "nkmJtF_7P7",
+      "type": "labels",
+      "value": {
+       "end": 1439,
+       "start": 1424,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "nkmJtF_7P7",
+      "type": "choices",
+      "value": {
+       "end": 1439,
+       "start": 1424,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "tl6jnhkbMB",
+      "type": "labels",
+      "value": {
+       "end": 1460,
+       "start": 1445,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "tl6jnhkbMB",
+      "type": "choices",
+      "value": {
+       "end": 1460,
+       "start": 1445,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "tl6jnhkbMB",
+      "type": "choices",
+      "value": {
+       "end": 1460,
+       "start": 1445,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "type": "relation",
+      "to_id": "aIjfY4SXI4",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "hBqELVk5Y7",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "MZljnMPf2S",
+      "from_id": "aIjfY4SXI4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "vJ4SWY7jaI",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "aIjfY4SXI4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "aIjfY4SXI4",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "ppypWKhrbW",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "aIjfY4SXI4",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "_BldLSWfZu",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "aIjfY4SXI4",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "1N-0Mebtq5",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "nkmJtF_7P7",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "9vXdKgKnBQ",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "9vXdKgKnBQ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "tl6jnhkbMB",
+      "direction": "left"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T13:35:08.282107Z",
+    "updated_at": "2026-09-15T13:35:08.282133Z",
+    "draft_created_at": "2026-09-15T13:26:20.396468Z",
+    "lead_time": 546.771,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "9ddca321-4108-44f9-a68f-abed73220580",
+    "import_id": null,
+    "last_action": null,
+    "task": 371005,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285658
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.640640Z",
+  "updated_at": "2026-09-15T13:35:08.360407Z",
+  "inner_id": 7,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371006,
+  "annotations": [
+   {
+    "id": 147202,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "nuWr4fO68B",
+      "type": "labels",
+      "value": {
+       "end": 96,
+       "start": 83,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "nuWr4fO68B",
+      "type": "choices",
+      "value": {
+       "end": 96,
+       "start": 83,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "NUVVrZCSoQ",
+      "type": "labels",
+      "value": {
+       "end": 56,
+       "start": 42,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "NUVVrZCSoQ",
+      "type": "choices",
+      "value": {
+       "end": 56,
+       "start": 42,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "UloImPH7Qc",
+      "type": "labels",
+      "value": {
+       "end": 118,
+       "start": 105,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "UloImPH7Qc",
+      "type": "choices",
+      "value": {
+       "end": 118,
+       "start": 105,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "93VqP_dWMN",
+      "type": "labels",
+      "value": {
+       "end": 201,
+       "start": 197,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "93VqP_dWMN",
+      "type": "choices",
+      "value": {
+       "end": 201,
+       "start": 197,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "MpGwTH17iO",
+      "type": "labels",
+      "value": {
+       "end": 231,
+       "start": 203,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "MpGwTH17iO",
+      "type": "choices",
+      "value": {
+       "end": 231,
+       "start": 203,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "uzLbeTWNiS",
+      "type": "labels",
+      "value": {
+       "end": 260,
+       "start": 242,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "uzLbeTWNiS",
+      "type": "choices",
+      "value": {
+       "end": 260,
+       "start": 242,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "NUVVrZCSoQ",
+      "from_id": "nuWr4fO68B",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "UloImPH7Qc",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "nuWr4fO68B",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T13:37:30.267555Z",
+    "updated_at": "2026-09-15T13:37:30.267569Z",
+    "draft_created_at": "2026-09-15T13:35:38.982049Z",
+    "lead_time": 136.348,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "7808df2d-a200-4d10-a1e1-b75afc5b0419",
+    "import_id": null,
+    "last_action": null,
+    "task": 371006,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285659
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.640764Z",
+  "updated_at": "2026-09-15T13:37:30.309140Z",
+  "inner_id": 8,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371009,
+  "annotations": [
+   {
+    "id": 147212,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "qRhMWSZp6A",
+      "type": "labels",
+      "value": {
+       "end": 93,
+       "start": 39,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "qRhMWSZp6A",
+      "type": "choices",
+      "value": {
+       "end": 93,
+       "start": 39,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "349xk1sO7d",
+      "type": "labels",
+      "value": {
+       "end": 155,
+       "start": 145,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "349xk1sO7d",
+      "type": "choices",
+      "value": {
+       "end": 155,
+       "start": 145,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "rAT71AwH__",
+      "type": "labels",
+      "value": {
+       "end": 232,
+       "start": 182,
+       "labels": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "rAT71AwH__",
+      "type": "choices",
+      "value": {
+       "end": 232,
+       "start": 182,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "rAT71AwH__",
+      "type": "choices",
+      "value": {
+       "end": 232,
+       "start": 182,
+       "choices": [
+        "Contestation/mobilisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "rAT71AwH__",
+      "type": "choices",
+      "value": {
+       "end": 232,
+       "start": 182,
+       "choices": [
+        "span boundary"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "dJg6mJ8vMP",
+      "type": "labels",
+      "value": {
+       "end": 2659,
+       "start": 2644,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "dJg6mJ8vMP",
+      "type": "choices",
+      "value": {
+       "end": 2659,
+       "start": 2644,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "rAT71AwH__",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "qRhMWSZp6A",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "349xk1sO7d",
+      "from_id": "rAT71AwH__",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T13:50:57.717313Z",
+    "updated_at": "2026-09-15T13:50:57.717332Z",
+    "draft_created_at": "2026-09-15T13:47:11.439652Z",
+    "lead_time": 262.555,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "04832c47-44d2-49a1-98bf-371bebb49088",
+    "import_id": null,
+    "last_action": null,
+    "task": 371009,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285662
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.641134Z",
+  "updated_at": "2026-09-15T13:50:57.785162Z",
+  "inner_id": 11,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371010,
+  "annotations": [
+   {
+    "id": 147227,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "VTq9VGKHsn",
+      "type": "labels",
+      "value": {
+       "end": 125,
+       "start": 98,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "VTq9VGKHsn",
+      "type": "choices",
+      "value": {
+       "end": 125,
+       "start": 98,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Gjiz-wpoVO",
+      "type": "labels",
+      "value": {
+       "end": 45,
+       "start": 29,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Gjiz-wpoVO",
+      "type": "choices",
+      "value": {
+       "end": 45,
+       "start": 29,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "CR5hOAnHhK",
+      "type": "labels",
+      "value": {
+       "end": 92,
+       "start": 49,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "CR5hOAnHhK",
+      "type": "choices",
+      "value": {
+       "end": 92,
+       "start": 49,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "SNdfUDLmdA",
+      "type": "labels",
+      "value": {
+       "end": 991,
+       "start": 975,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "SNdfUDLmdA",
+      "type": "choices",
+      "value": {
+       "end": 991,
+       "start": 975,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Oj_PeuH4Kh",
+      "type": "labels",
+      "value": {
+       "end": 925,
+       "start": 909,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Oj_PeuH4Kh",
+      "type": "choices",
+      "value": {
+       "end": 925,
+       "start": 909,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ejIyf5LWgS",
+      "type": "labels",
+      "value": {
+       "end": 2748,
+       "start": 2745,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ejIyf5LWgS",
+      "type": "choices",
+      "value": {
+       "end": 2748,
+       "start": 2745,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "9IsHv0UiaO",
+      "type": "labels",
+      "value": {
+       "end": 2817,
+       "start": 2774,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "9IsHv0UiaO",
+      "type": "choices",
+      "value": {
+       "end": 2817,
+       "start": 2774,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "7Gh3VzaQps",
+      "type": "labels",
+      "value": {
+       "end": 2833,
+       "start": 2819,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "7Gh3VzaQps",
+      "type": "choices",
+      "value": {
+       "end": 2833,
+       "start": 2819,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "QiUuDWY6vI",
+      "type": "labels",
+      "value": {
+       "end": 2851,
+       "start": 2835,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "QiUuDWY6vI",
+      "type": "choices",
+      "value": {
+       "end": 2851,
+       "start": 2835,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Pa01D4G8d7",
+      "type": "labels",
+      "value": {
+       "end": 2902,
+       "start": 2855,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Pa01D4G8d7",
+      "type": "choices",
+      "value": {
+       "end": 2902,
+       "start": 2855,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "PHkahd4lrX",
+      "type": "labels",
+      "value": {
+       "end": 2926,
+       "start": 2909,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "PHkahd4lrX",
+      "type": "choices",
+      "value": {
+       "end": 2926,
+       "start": 2909,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "y8B8gd61iD",
+      "type": "labels",
+      "value": {
+       "end": 2954,
+       "start": 2943,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "y8B8gd61iD",
+      "type": "choices",
+      "value": {
+       "end": 2954,
+       "start": 2943,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "dy5BJmF7PZ",
+      "type": "labels",
+      "value": {
+       "end": 3796,
+       "start": 3778,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "dy5BJmF7PZ",
+      "type": "choices",
+      "value": {
+       "end": 3796,
+       "start": 3778,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "4ip4-PsY2j",
+      "type": "labels",
+      "value": {
+       "end": 3568,
+       "start": 3555,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "4ip4-PsY2j",
+      "type": "choices",
+      "value": {
+       "end": 3568,
+       "start": 3555,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "SNdfUDLmdA",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "Oj_PeuH4Kh",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "CR5hOAnHhK",
+      "from_id": "VTq9VGKHsn",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Gjiz-wpoVO",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "VTq9VGKHsn",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "VTq9VGKHsn",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "ejIyf5LWgS",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "VTq9VGKHsn",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "9IsHv0UiaO",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "VTq9VGKHsn",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "7Gh3VzaQps",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "VTq9VGKHsn",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "QiUuDWY6vI",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "VTq9VGKHsn",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "Pa01D4G8d7",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "PHkahd4lrX",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "y8B8gd61iD",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "dy5BJmF7PZ",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "4ip4-PsY2j",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T14:08:33.594321Z",
+    "updated_at": "2026-09-15T14:08:33.594346Z",
+    "draft_created_at": "2026-09-15T13:58:11.348706Z",
+    "lead_time": 1053.799,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "0e33a239-f79b-4bc7-94b9-1a470087d8b7",
+    "import_id": null,
+    "last_action": null,
+    "task": 371010,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285663
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.641256Z",
+  "updated_at": "2026-09-15T14:08:33.673692Z",
+  "inner_id": 12,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371011,
+  "annotations": [
+   {
+    "id": 147232,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "x5ybtYalX2",
+      "type": "labels",
+      "value": {
+       "end": 1045,
+       "start": 1034,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "x5ybtYalX2",
+      "type": "choices",
+      "value": {
+       "end": 1045,
+       "start": 1034,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Z3xl6txRRA",
+      "type": "labels",
+      "value": {
+       "end": 1424,
+       "start": 1407,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Z3xl6txRRA",
+      "type": "choices",
+      "value": {
+       "end": 1424,
+       "start": 1407,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "IWChZyfOOJ",
+      "type": "labels",
+      "value": {
+       "end": 1196,
+       "start": 1183,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "IWChZyfOOJ",
+      "type": "choices",
+      "value": {
+       "end": 1196,
+       "start": 1183,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ipe6G3vUq0",
+      "type": "labels",
+      "value": {
+       "end": 2352,
+       "start": 2341,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ipe6G3vUq0",
+      "type": "choices",
+      "value": {
+       "end": 2352,
+       "start": 2341,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "zPp7sgiGn7",
+      "type": "labels",
+      "value": {
+       "end": 2324,
+       "start": 2307,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "zPp7sgiGn7",
+      "type": "choices",
+      "value": {
+       "end": 2324,
+       "start": 2307,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "Z3xl6txRRA",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "IWChZyfOOJ",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "zPp7sgiGn7",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "ipe6G3vUq0",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T14:17:39.745541Z",
+    "updated_at": "2026-09-15T14:17:39.745568Z",
+    "draft_created_at": "2026-09-15T14:15:48.317402Z",
+    "lead_time": 544.022,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "4be217dc-f3ab-4028-9d96-d9b9d003bbae",
+    "import_id": null,
+    "last_action": null,
+    "task": 371011,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285664
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.641378Z",
+  "updated_at": "2026-09-15T14:17:39.822804Z",
+  "inner_id": 13,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371012,
+  "annotations": [
+   {
+    "id": 147237,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "mp1CQat2Ub",
+      "type": "labels",
+      "value": {
+       "end": 2344,
+       "start": 2316,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "mp1CQat2Ub",
+      "type": "choices",
+      "value": {
+       "end": 2344,
+       "start": 2316,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "mp1CQat2Ub",
+      "type": "choices",
+      "value": {
+       "end": 2344,
+       "start": 2316,
+       "choices": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "mp1CQat2Ub",
+      "type": "choices",
+      "value": {
+       "end": 2344,
+       "start": 2316,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "OdJowPerkD",
+      "type": "labels",
+      "value": {
+       "end": 2430,
+       "start": 2411,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "OdJowPerkD",
+      "type": "choices",
+      "value": {
+       "end": 2430,
+       "start": 2411,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "OdJowPerkD",
+      "type": "choices",
+      "value": {
+       "end": 2430,
+       "start": 2411,
+       "choices": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "OdJowPerkD",
+      "type": "choices",
+      "value": {
+       "end": 2430,
+       "start": 2411,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "ZZCUbFWpeR",
+      "type": "labels",
+      "value": {
+       "end": 2392,
+       "start": 2382,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ZZCUbFWpeR",
+      "type": "choices",
+      "value": {
+       "end": 2392,
+       "start": 2382,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "wNDevjxXp1",
+      "type": "labels",
+      "value": {
+       "end": 3712,
+       "start": 3692,
+       "labels": [
+        "Decolonisation trajectory"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "wNDevjxXp1",
+      "type": "choices",
+      "value": {
+       "end": 3712,
+       "start": 3692,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "urL9H5B9Y2",
+      "type": "labels",
+      "value": {
+       "end": 3631,
+       "start": 3622,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "urL9H5B9Y2",
+      "type": "choices",
+      "value": {
+       "end": 3631,
+       "start": 3622,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "IEhkjz7ycJ",
+      "type": "labels",
+      "value": {
+       "end": 3549,
+       "start": 3514,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "IEhkjz7ycJ",
+      "type": "choices",
+      "value": {
+       "end": 3549,
+       "start": 3514,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "0cwKUY9-fj",
+      "type": "labels",
+      "value": {
+       "end": 4233,
+       "start": 4158,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "0cwKUY9-fj",
+      "type": "choices",
+      "value": {
+       "end": 4233,
+       "start": 4158,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ANtgkt-Hs_",
+      "type": "labels",
+      "value": {
+       "end": 4316,
+       "start": 4251,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ANtgkt-Hs_",
+      "type": "choices",
+      "value": {
+       "end": 4316,
+       "start": 4251,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "EdeHN8j53f",
+      "type": "labels",
+      "value": {
+       "end": 4378,
+       "start": 4337,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "EdeHN8j53f",
+      "type": "choices",
+      "value": {
+       "end": 4378,
+       "start": 4337,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "mp1CQat2Ub",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "ZZCUbFWpeR",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "OdJowPerkD",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "ZZCUbFWpeR",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "wNDevjxXp1",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "IEhkjz7ycJ",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "urL9H5B9Y2",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "wNDevjxXp1",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "0cwKUY9-fj",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "ANtgkt-Hs_",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "0cwKUY9-fj",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "EdeHN8j53f",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-15T14:32:04.062555Z",
+    "updated_at": "2026-09-15T14:32:04.062581Z",
+    "draft_created_at": "2026-09-15T14:27:42.484584Z",
+    "lead_time": 659.818,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "29af42be-c95a-4057-9a29-a25e7c58e771",
+    "import_id": null,
+    "last_action": null,
+    "task": 371012,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285665
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.641500Z",
+  "updated_at": "2026-09-15T14:32:04.144278Z",
+  "inner_id": 14,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371013,
+  "annotations": [
+   {
+    "id": 147571,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "ML3CvjUPiK",
+      "type": "labels",
+      "value": {
+       "end": 1311,
+       "start": 1304,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ML3CvjUPiK",
+      "type": "choices",
+      "value": {
+       "end": 1311,
+       "start": 1304,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ML3CvjUPiK",
+      "type": "choices",
+      "value": {
+       "end": 1311,
+       "start": 1304,
+       "choices": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "ML3CvjUPiK",
+      "type": "choices",
+      "value": {
+       "end": 1311,
+       "start": 1304,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "SJIdnOrh33",
+      "type": "labels",
+      "value": {
+       "end": 1101,
+       "start": 1089,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "SJIdnOrh33",
+      "type": "choices",
+      "value": {
+       "end": 1101,
+       "start": 1089,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Y_NEr3cQSx",
+      "type": "labels",
+      "value": {
+       "end": 1129,
+       "start": 1116,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Y_NEr3cQSx",
+      "type": "choices",
+      "value": {
+       "end": 1129,
+       "start": 1116,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "3GSbLEJcAS",
+      "type": "labels",
+      "value": {
+       "end": 1224,
+       "start": 1201,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "3GSbLEJcAS",
+      "type": "choices",
+      "value": {
+       "end": 1224,
+       "start": 1201,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "HC_hIFYY8u",
+      "type": "labels",
+      "value": {
+       "end": 44,
+       "start": 34,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "HC_hIFYY8u",
+      "type": "choices",
+      "value": {
+       "end": 44,
+       "start": 34,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "ML3CvjUPiK",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "SJIdnOrh33",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "ML3CvjUPiK",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "Y_NEr3cQSx",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "ML3CvjUPiK",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "3GSbLEJcAS",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-17T07:23:58.418177Z",
+    "updated_at": "2026-09-17T07:23:58.418203Z",
+    "draft_created_at": "2026-09-17T07:22:03.103646Z",
+    "lead_time": 302.721,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "873cb9b2-d854-4b72-b067-07c8db57f7bd",
+    "import_id": null,
+    "last_action": null,
+    "task": 371013,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285666
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.641621Z",
+  "updated_at": "2026-09-17T07:23:58.484265Z",
+  "inner_id": 15,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371014,
+  "annotations": [
+   {
+    "id": 147575,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "XTd6ikwzKx",
+      "type": "labels",
+      "value": {
+       "end": 223,
+       "start": 213,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "XTd6ikwzKx",
+      "type": "choices",
+      "value": {
+       "end": 223,
+       "start": 213,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "XTd6ikwzKx",
+      "type": "choices",
+      "value": {
+       "end": 223,
+       "start": 213,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "1GeYbv0StU",
+      "type": "labels",
+      "value": {
+       "end": 506,
+       "start": 437,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "1GeYbv0StU",
+      "type": "choices",
+      "value": {
+       "end": 506,
+       "start": 437,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "N4UqUQKCL4",
+      "type": "labels",
+      "value": {
+       "end": 92,
+       "start": 79,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "N4UqUQKCL4",
+      "type": "choices",
+      "value": {
+       "end": 92,
+       "start": 79,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "HcbXVnqJvf",
+      "type": "labels",
+      "value": {
+       "end": 435,
+       "start": 423,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "HcbXVnqJvf",
+      "type": "choices",
+      "value": {
+       "end": 435,
+       "start": 423,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "zdrnyHk74e",
+      "type": "labels",
+      "value": {
+       "end": 590,
+       "start": 556,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "zdrnyHk74e",
+      "type": "choices",
+      "value": {
+       "end": 590,
+       "start": 556,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "2pfw0CFgb7",
+      "type": "labels",
+      "value": {
+       "end": 612,
+       "start": 596,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "2pfw0CFgb7",
+      "type": "choices",
+      "value": {
+       "end": 612,
+       "start": 596,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "NNCdLxwGZu",
+      "type": "labels",
+      "value": {
+       "end": 1219,
+       "start": 1155,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "NNCdLxwGZu",
+      "type": "choices",
+      "value": {
+       "end": 1219,
+       "start": 1155,
+       "choices": [
+        "very hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "NNCdLxwGZu",
+      "type": "choices",
+      "value": {
+       "end": 1219,
+       "start": 1155,
+       "choices": [
+        "relevance"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "PILvU5KSVo",
+      "type": "labels",
+      "value": {
+       "end": 44,
+       "start": 34,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "PILvU5KSVo",
+      "type": "choices",
+      "value": {
+       "end": 44,
+       "start": 34,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "R14coEZoTP",
+      "type": "labels",
+      "value": {
+       "end": 65,
+       "start": 53,
+       "labels": [
+        "Memory and (re)signification"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "R14coEZoTP",
+      "type": "choices",
+      "value": {
+       "end": 65,
+       "start": 53,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "1GeYbv0StU",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "N4UqUQKCL4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "1GeYbv0StU",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "HcbXVnqJvf",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "zdrnyHk74e",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "N4UqUQKCL4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "zdrnyHk74e",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "2pfw0CFgb7",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "R14coEZoTP",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "N4UqUQKCL4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "PILvU5KSVo",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "R14coEZoTP",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-17T07:31:14.894793Z",
+    "updated_at": "2026-09-17T08:13:42.840665Z",
+    "draft_created_at": "2026-09-17T07:27:01.874172Z",
+    "lead_time": 529.721,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "e8307eb7-0edf-4bcd-a7bc-05456c06bbfd",
+    "import_id": null,
+    "last_action": null,
+    "task": 371014,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285667
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.641745Z",
+  "updated_at": "2026-09-17T08:13:42.955941Z",
+  "inner_id": 16,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371016,
+  "annotations": [
+   {
+    "id": 147578,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "z2oQWkEgOu",
+      "type": "labels",
+      "value": {
+       "end": 43,
+       "start": 34,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "z2oQWkEgOu",
+      "type": "choices",
+      "value": {
+       "end": 43,
+       "start": 34,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "sRCtkGMa2o",
+      "type": "labels",
+      "value": {
+       "end": 71,
+       "start": 57,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "sRCtkGMa2o",
+      "type": "choices",
+      "value": {
+       "end": 71,
+       "start": 57,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "QlOvkZ0kWa",
+      "type": "labels",
+      "value": {
+       "end": 183,
+       "start": 114,
+       "labels": [
+        "Books"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "QlOvkZ0kWa",
+      "type": "choices",
+      "value": {
+       "end": 183,
+       "start": 114,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "gDTso0iXXP",
+      "type": "labels",
+      "value": {
+       "end": 284,
+       "start": 272,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "gDTso0iXXP",
+      "type": "choices",
+      "value": {
+       "end": 284,
+       "start": 272,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "oMfQjCcqX4",
+      "type": "labels",
+      "value": {
+       "end": 320,
+       "start": 307,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "oMfQjCcqX4",
+      "type": "choices",
+      "value": {
+       "end": 320,
+       "start": 307,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "nb9qextLXb",
+      "type": "labels",
+      "value": {
+       "end": 360,
+       "start": 355,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "nb9qextLXb",
+      "type": "choices",
+      "value": {
+       "end": 360,
+       "start": 355,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ktMQiLTe3y",
+      "type": "labels",
+      "value": {
+       "end": 371,
+       "start": 362,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ktMQiLTe3y",
+      "type": "choices",
+      "value": {
+       "end": 371,
+       "start": 362,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "O5WwCTrZAf",
+      "type": "labels",
+      "value": {
+       "end": 388,
+       "start": 373,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "O5WwCTrZAf",
+      "type": "choices",
+      "value": {
+       "end": 388,
+       "start": 373,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "nYxKadlAMy",
+      "type": "labels",
+      "value": {
+       "end": 424,
+       "start": 390,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "nYxKadlAMy",
+      "type": "choices",
+      "value": {
+       "end": 424,
+       "start": 390,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "XxRYmjiU9z",
+      "type": "labels",
+      "value": {
+       "end": 461,
+       "start": 433,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "XxRYmjiU9z",
+      "type": "choices",
+      "value": {
+       "end": 461,
+       "start": 433,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "j-a3uM1_vJ",
+      "type": "labels",
+      "value": {
+       "end": 1330,
+       "start": 1315,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "j-a3uM1_vJ",
+      "type": "choices",
+      "value": {
+       "end": 1330,
+       "start": 1315,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "z2oQWkEgOu",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "sRCtkGMa2o",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "sRCtkGMa2o",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "gDTso0iXXP",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "sRCtkGMa2o",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "oMfQjCcqX4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "QlOvkZ0kWa",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "gDTso0iXXP",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "QlOvkZ0kWa",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "oMfQjCcqX4",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "QlOvkZ0kWa",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "nb9qextLXb",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "QlOvkZ0kWa",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "ktMQiLTe3y",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "QlOvkZ0kWa",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "O5WwCTrZAf",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "QlOvkZ0kWa",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "nYxKadlAMy",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "QlOvkZ0kWa",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "XxRYmjiU9z",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-17T07:36:53.650369Z",
+    "updated_at": "2026-09-17T07:36:53.650394Z",
+    "draft_created_at": "2026-09-17T07:33:11.738866Z",
+    "lead_time": 242.121,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "886ff665-b156-4f9b-85de-11752d5d4e57",
+    "import_id": null,
+    "last_action": null,
+    "task": 371016,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285669
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.641994Z",
+  "updated_at": "2026-09-17T07:36:53.718164Z",
+  "inner_id": 18,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371017,
+  "annotations": [
+   {
+    "id": 147579,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "8eEyaXx-_T",
+      "type": "labels",
+      "value": {
+       "end": 43,
+       "start": 34,
+       "labels": [
+        "Time_range"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "8eEyaXx-_T",
+      "type": "choices",
+      "value": {
+       "end": 43,
+       "start": 34,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "v9hLGympZN",
+      "type": "labels",
+      "value": {
+       "end": 446,
+       "start": 434,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "v9hLGympZN",
+      "type": "choices",
+      "value": {
+       "end": 446,
+       "start": 434,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "lu8-wWb-OL",
+      "type": "labels",
+      "value": {
+       "end": 574,
+       "start": 568,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "lu8-wWb-OL",
+      "type": "choices",
+      "value": {
+       "end": 574,
+       "start": 568,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Jlo5R9hBJl",
+      "type": "labels",
+      "value": {
+       "end": 640,
+       "start": 599,
+       "labels": [
+        "Knowledge Forums"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Jlo5R9hBJl",
+      "type": "choices",
+      "value": {
+       "end": 640,
+       "start": 599,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "tjhRev_nVj",
+      "type": "labels",
+      "value": {
+       "end": 738,
+       "start": 731,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "tjhRev_nVj",
+      "type": "choices",
+      "value": {
+       "end": 738,
+       "start": 731,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "VIihFlXzff",
+      "type": "labels",
+      "value": {
+       "end": 850,
+       "start": 814,
+       "labels": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "VIihFlXzff",
+      "type": "choices",
+      "value": {
+       "end": 850,
+       "start": 814,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "q90KEU_p3n",
+      "type": "labels",
+      "value": {
+       "end": 460,
+       "start": 448,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "q90KEU_p3n",
+      "type": "choices",
+      "value": {
+       "end": 460,
+       "start": 448,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "bpcEj0xyUp",
+      "type": "labels",
+      "value": {
+       "end": 51,
+       "start": 45,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "bpcEj0xyUp",
+      "type": "choices",
+      "value": {
+       "end": 51,
+       "start": 45,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "ISSB5eqLUY",
+      "type": "labels",
+      "value": {
+       "end": 507,
+       "start": 478,
+       "labels": [
+        "Truth-seeking initiatives"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "ISSB5eqLUY",
+      "type": "choices",
+      "value": {
+       "end": 507,
+       "start": 478,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "ISSB5eqLUY",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "q90KEU_p3n",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "v9hLGympZN",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "ISSB5eqLUY",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "Jlo5R9hBJl",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "q90KEU_p3n",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "lu8-wWb-OL",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "Jlo5R9hBJl",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "tjhRev_nVj",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "VIihFlXzff",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "VIihFlXzff",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "q90KEU_p3n",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-17T08:01:17.826328Z",
+    "updated_at": "2026-09-17T08:01:17.826355Z",
+    "draft_created_at": "2026-09-17T07:54:31.493113Z",
+    "lead_time": 1461.335,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "001e8dd1-317a-4991-aab1-833ab0749b99",
+    "import_id": null,
+    "last_action": null,
+    "task": 371017,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285670
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.642116Z",
+  "updated_at": "2026-09-17T08:01:17.907707Z",
+  "inner_id": 19,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ },
+ {
+  "id": 371018,
+  "annotations": [
+   {
+    "id": 147580,
+    "completed_by": 1182,
+    "result": [
+     {
+      "id": "jWyoLZ8AVu",
+      "type": "labels",
+      "value": {
+       "end": 117,
+       "start": 97,
+       "labels": [
+        "Organisation"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "jWyoLZ8AVu",
+      "type": "choices",
+      "value": {
+       "end": 117,
+       "start": 97,
+       "choices": [
+        "somewhat hesitant"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "jWyoLZ8AVu",
+      "type": "choices",
+      "value": {
+       "end": 117,
+       "start": 97,
+       "choices": [
+        "Cultural interventions"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "alt_label"
+     },
+     {
+      "id": "jWyoLZ8AVu",
+      "type": "choices",
+      "value": {
+       "end": 117,
+       "start": 97,
+       "choices": [
+        "category"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "doubt_source"
+     },
+     {
+      "id": "4bBDI1-X-C",
+      "type": "labels",
+      "value": {
+       "end": 23,
+       "start": 13,
+       "labels": [
+        "Time_absolute"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "4bBDI1-X-C",
+      "type": "choices",
+      "value": {
+       "end": 23,
+       "start": 13,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "U_PvAvNPf9",
+      "type": "labels",
+      "value": {
+       "end": 197,
+       "start": 185,
+       "labels": [
+        "Time_relative"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "U_PvAvNPf9",
+      "type": "choices",
+      "value": {
+       "end": 197,
+       "start": 185,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "UjWGvDmgfu",
+      "type": "labels",
+      "value": {
+       "end": 517,
+       "start": 478,
+       "labels": [
+        "Educational tools/processes"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "UjWGvDmgfu",
+      "type": "choices",
+      "value": {
+       "end": 517,
+       "start": 478,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "id": "Ee4BJ9Qkjr",
+      "type": "labels",
+      "value": {
+       "end": 157,
+       "start": 151,
+       "labels": [
+        "Location"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "label"
+     },
+     {
+      "id": "Ee4BJ9Qkjr",
+      "type": "choices",
+      "value": {
+       "end": 157,
+       "start": 151,
+       "choices": [
+        "certain"
+       ]
+      },
+      "origin": "manual",
+      "to_name": "text",
+      "from_name": "hesitancy"
+     },
+     {
+      "type": "relation",
+      "to_id": "Ee4BJ9Qkjr",
+      "from_id": "UjWGvDmgfu",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "U_PvAvNPf9",
+      "labels": [
+       "occurs_on"
+      ],
+      "from_id": "UjWGvDmgfu",
+      "direction": "right"
+     },
+     {
+      "type": "relation",
+      "to_id": "UjWGvDmgfu",
+      "labels": [
+       "linked_to"
+      ],
+      "from_id": "jWyoLZ8AVu",
+      "direction": "right"
+     }
+    ],
+    "was_cancelled": false,
+    "ground_truth": false,
+    "created_at": "2026-09-17T08:22:26.513642Z",
+    "updated_at": "2026-09-17T08:22:26.513665Z",
+    "draft_created_at": "2026-09-17T08:13:59.825744Z",
+    "lead_time": 521.412,
+    "prediction": {},
+    "result_count": 0,
+    "unique_id": "596a5b87-028e-4434-9e36-73336d6195c3",
+    "import_id": null,
+    "last_action": null,
+    "task": 371018,
+    "project": 721,
+    "updated_by": 1182,
+    "parent_prediction": null,
+    "parent_annotation": null,
+    "last_created_by": null
+   }
+  ],
+  "file_upload": "654a3f57-reannotate_iaa_tasks.json",
+  "drafts": [],
+  "predictions": [],
+  "data": {
+   "arm": "reannotation",
+   "source_file": "IAA_redress.json",
+   "orig_task_id": 285672
+  },
+  "meta": {},
+  "created_at": "2026-09-02T11:59:09.642238Z",
+  "updated_at": "2026-09-17T08:22:26.590476Z",
+  "inner_id": 20,
+  "total_annotations": 1,
+  "cancelled_annotations": 0,
+  "total_predictions": 0,
+  "comment_count": 0,
+  "unresolved_comment_count": 0,
+  "last_comment_updated_at": null,
+  "project": 721,
+  "updated_by": 1182,
+  "comment_authors": []
+ }
+]

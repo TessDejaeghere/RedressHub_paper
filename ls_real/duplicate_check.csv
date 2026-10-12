@@ -1,0 +1,6 @@
+text A,text B,word overlap,characters A,characters B
+elke_solo_nl:335223,iaa_nl:285645,0.998,18091,18424
+cira_solo:335567,elke_solo:335320,0.651,548,16773
+elke_solo_nl:335223,iaa_nl:285655,0.618,18091,554
+cira_solo:335567,iaa:285651,0.603,548,20459
+elke_solo_nl:335292,iaa_nl:285655,0.603,19707,554
