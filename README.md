@@ -57,9 +57,11 @@ Notes on how the data are used (all documented in the notebooks):
 
 ## Article texts and copyright
 
-The articles were scraped from the websites listed in `texts.csv` and remain under the copyright of their
-publishers. In line with the paper's data statement, this repository therefore releases them only as URLs
-with character offsets, not as full text. The texts are not part of this repository's history either.
+The articles were scraped, with permission, from MO*, the AfricaMuseum and CEC, or (for 20 of the
+calibration texts) selected by hand from other public websites; all sources are listed in `texts.csv`.
+They remain under the copyright of their publishers. In line with the paper's data statement, this repository
+therefore releases them only as URLs with character offsets, not as full text. The texts are not part of
+this repository's history either.
 
 Project members who hold the full texts can restore them locally:
 
